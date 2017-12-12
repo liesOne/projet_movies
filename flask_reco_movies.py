@@ -10,13 +10,6 @@ from flask import Flask
 import pandas as pd
 from sklearn.metrics.pairwise import euclidean_distances
 
-app = Flask(__name__)
-
-data_dummies = pd.read_csv("data_dummies.csv", sep = ";")
-data_movies = pd.read_csv("data_movies.csv", sep = ";")
-
-
-#création d'une fonction pour calculer une distance entre 2 films
 def distance(f1, f2):
     distance = euclidean_distances(f1, f2)
     return distance
@@ -39,7 +32,12 @@ def preco_film(titre_film, data_movies, data_dummies):
 
 def mise_en_forme(liste):
     x = "<br>".join(liste)
-    return x 
+    return x
+    
+data_dummies = pd.read_csv("data_dummies.csv", sep = ";")
+data_movies = pd.read_csv("data_movies.csv", sep = ";")
+    
+app = Flask(__name__)
 
 @app.route('/recommend/<titre_film>')
 def reco_film(titre_film):
