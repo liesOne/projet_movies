@@ -1,0 +1,4920 @@
+;movie_title;HCA
+0;Avatar ;159
+1;Pirates of the Caribbean: At World's End ;160
+2;Spectre ;135
+3;The Dark Knight Rises ;144
+4;Star Wars: Episode VII - The Force Awakens             ;70
+5;John Carter ;155
+6;Spider-Man 3 ;161
+7;Tangled ;120
+8;Avengers: Age of Ultron ;155
+9;Harry Potter and the Half-Blood Prince ;124
+10;Batman v Superman: Dawn of Justice ;155
+11;Superman Returns ;155
+12;Quantum of Solace ;164
+13;Pirates of the Caribbean: Dead Man's Chest ;160
+14;The Lone Ranger ;164
+15;Man of Steel ;159
+16;The Chronicles of Narnia: Prince Caspian ;126
+17;The Avengers ;155
+18;Pirates of the Caribbean: On Stranger Tides ;160
+19;Men in Black 3 ;125
+20;The Hobbit: The Battle of the Five Armies ;146
+21;The Amazing Spider-Man ;160
+22;Robin Hood ;152
+23;The Hobbit: The Desolation of Smaug ;146
+24;The Golden Compass ;124
+25;King Kong ;153
+26;Titanic ;101
+27;Captain America: Civil War ;155
+28;Battleship ;137
+29;Jurassic World ;137
+30;Skyfall ;135
+31;Spider-Man 2 ;161
+32;Iron Man 3 ;155
+33;Alice in Wonderland ;124
+34;X-Men: The Last Stand ;138
+35;Monsters University ;122
+36;Transformers: Revenge of the Fallen ;155
+37;Transformers: Age of Extinction ;155
+38;Oz the Great and Powerful ;124
+39;The Amazing Spider-Man 2 ;159
+40;TRON: Legacy ;155
+41;Cars 2 ;108
+42;Green Lantern ;155
+43;Toy Story 3 ;122
+44;Terminator Salvation ;155
+45;Furious 7 ;58
+46;World War Z ;4
+47;X-Men: Days of Future Past ;138
+48;Star Trek Into Darkness ;155
+49;Jack the Giant Slayer ;146
+50;The Great Gatsby ;101
+51;Prince of Persia: The Sands of Time ;161
+52;Pacific Rim ;155
+53;Transformers: Dark of the Moon ;155
+54;Indiana Jones and the Kingdom of the Crystal Skull ;160
+55;The Good Dinosaur ;122
+56;Brave ;122
+57;Star Trek Beyond ;137
+58;WALL·E ;90
+59;Rush Hour 3 ;80
+60;2012 ;155
+61;A Christmas Carol ;103
+62;Jupiter Ascending ;155
+63;The Legend of Tarzan ;153
+64;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ;124
+65;X-Men: Apocalypse ;155
+66;The Dark Knight ;57
+67;Up ;132
+68;Monsters vs. Aliens ;127
+69;Iron Man ;155
+70;Hugo ;134
+71;Wild Wild West ;157
+72;The Mummy: Tomb of the Dragon Emperor ;4
+73;Suicide Squad ;157
+74;Evan Almighty ;112
+75;Edge of Tomorrow ;155
+76;Waterworld ;137
+77;G.I. Joe: The Rise of Cobra ;137
+78;Inside Out ;133
+79;The Jungle Book ;103
+80;Iron Man 2 ;155
+81;Snow White and the Huntsman ;158
+82;Maleficent ;161
+83;Dawn of the Planet of the Apes ;149
+84;The Lovers ;161
+85;47 Ronin ;158
+86;Captain America: The Winter Soldier ;155
+87;Shrek Forever After ;122
+88;Tomorrowland ;126
+89;Big Hero 6 ;127
+90;Wreck-It Ralph ;129
+91;The Polar Express ;123
+92;Independence Day: Resurgence ;155
+93;How to Train Your Dragon ;123
+94;Terminator 3: Rise of the Machines ;156
+95;Guardians of the Galaxy ;155
+96;Interstellar ;149
+97;Inception ;137
+98;Godzilla Resurgence ;2
+99;The Hobbit: An Unexpected Journey ;146
+100;The Fast and the Furious ;58
+101;The Curious Case of Benjamin Button ;111
+102;X-Men: First Class ;155
+103;The Hunger Games: Mockingjay - Part 2 ;90
+104;The Sorcerer's Apprentice ;126
+105;Poseidon ;27
+106;Alice Through the Looking Glass ;124
+107;Shrek the Third ;122
+108;Warcraft ;160
+109;Terminator Genisys ;155
+110;The Chronicles of Narnia: The Voyage of the Dawn Treader ;124
+111;Pearl Harbor ;30
+112;Transformers ;155
+113;Alexander ;30
+114;Harry Potter and the Order of the Phoenix ;124
+115;Harry Potter and the Goblet of Fire ;124
+116;Hancock ;163
+117;I Am Legend ;14
+118;Charlie and the Chocolate Factory ;125
+119;Ratatouille ;131
+120;Batman Begins ;164
+121;Madagascar: Escape 2 Africa ;128
+122;Night at the Museum: Battle of the Smithsonian ;125
+123;X-Men Origins: Wolverine ;138
+124;The Matrix Revolutions ;156
+125;Frozen ;120
+126;The Matrix Reloaded ;156
+127;Thor: The Dark World ;160
+128;Mad Max: Fury Road ;137
+129;Angels & Demons ;47
+130;Thor ;160
+131;Bolt ;133
+132;G-Force ;127
+133;Wrath of the Titans ;160
+134;Dark Shadows ;113
+135;Mission: Impossible - Rogue Nation ;135
+136;The Wolfman ;7
+138;Bee Movie ;132
+139;Kung Fu Panda 2 ;128
+140;The Last Airbender ;126
+141;Mission: Impossible III ;135
+142;White House Down ;28
+143;Mars Needs Moms ;127
+144;Flushed Away ;132
+145;Pan ;124
+146;Mr. Peabody & Sherman ;129
+147;Troy ;146
+148;Madagascar 3: Europe's Most Wanted ;132
+149;Die Another Day ;135
+150;Ghostbusters ;157
+151;Armageddon ;137
+152;Men in Black II ;125
+153;Beowulf ;123
+154;Kung Fu Panda 3 ;128
+155;Mission: Impossible - Ghost Protocol ;135
+156;Rise of the Guardians ;123
+157;Fun with Dick and Jane ;73
+158;The Last Samurai ;30
+159;Exodus: Gods and Kings ;158
+160;Star Trek ;155
+161;Spider-Man ;161
+162;How to Train Your Dragon 2 ;128
+163;Gods of Egypt ;160
+164;Stealth ;137
+165;Watchmen ;141
+166;Lethal Weapon 4 ;58
+167;Hulk ;156
+168;G.I. Joe: Retaliation ;137
+169;Sahara ;145
+170;Final Fantasy: The Spirits Within ;161
+171;Captain America: The First Avenger ;155
+172;The World Is Not Enough ;135
+173;Master and Commander: The Far Side of the World ;152
+174;The Twilight Saga: Breaking Dawn - Part 2 ;146
+175;Happy Feet 2 ;121
+176;The Incredible Hulk ;155
+177;Miami Vice             ;49
+178;The BFG ;124
+179;The Revenant ;151
+180;Turbo ;108
+181;Rango ;132
+182;Penguins of Madagascar ;132
+183;The Bourne Ultimatum ;46
+184;Kung Fu Panda ;128
+185;Ant-Man ;157
+186;The Hunger Games: Catching Fire ;143
+188;Home ;129
+189;War of the Worlds ;143
+190;Bad Boys II ;80
+191;Puss in Boots ;128
+192;Salt ;46
+193;Noah ;158
+194;The Adventures of Tintin ;126
+195;Harry Potter and the Prisoner of Azkaban ;124
+196;Australia ;154
+197;After Earth ;155
+198;Dinosaur ;132
+199;Harry Potter and the Deathly Hallows: Part II ;3
+200;Night at the Museum: Secret of the Tomb ;125
+201;Megamind ;129
+202;Harry Potter and the Sorcerer's Stone ;124
+203;R.I.P.D. ;78
+205;Pirates of the Caribbean: The Curse of the Black Pearl ;160
+206;Harry Potter and the Deathly Hallows: Part I ;84
+207;The Hunger Games: Mockingjay - Part 1 ;143
+208;The Da Vinci Code ;47
+209;Rio 2 ;121
+210;X-Men 2 ;138
+211;Fast Five ;58
+212;Sherlock Holmes: A Game of Shadows ;46
+213;Clash of the Titans ;160
+214;Total Recall ;156
+215;The 13th Warrior ;152
+216;The Bourne Legacy ;135
+217;Batman & Robin ;165
+218;How the Grinch Stole Christmas ;112
+219;The Day After Tomorrow ;137
+220;Mission: Impossible II ;135
+221;The Perfect Storm ;27
+222;Fantastic 4: Rise of the Silver Surfer ;137
+223;Life of Pi ;146
+224;Ghost Rider ;3
+225;Jason Bourne ;144
+226;Charlie's Angels: Full Throttle ;76
+227;Prometheus ;48
+228;Stuart Little 2 ;122
+229;Elysium ;141
+230;The Chronicles of Riddick ;137
+231;RoboCop ;139
+232;Speed Racer ;109
+233;How Do You Know ;100
+234;Knight and Day ;162
+235;Oblivion ;48
+236;Star Wars: Episode III - Revenge of the Sith ;159
+237;Star Wars: Episode II - Attack of the Clones ;159
+238;Monsters, Inc. ;122
+239;The Wolverine ;137
+240;Star Wars: Episode I - The Phantom Menace ;159
+241;The Croods ;122
+242;Asterix at the Olympic Games ;125
+243;Windtalkers ;35
+244;The Huntsman: Winter's War ;158
+245;Teenage Mutant Ninja Turtles ;157
+246;Gravity ;149
+247;Dante's Peak ;135
+248;Teenage Mutant Ninja Turtles: Out of the Shadows ;157
+249;Fantastic Four ;155
+250;Night at the Museum ;128
+251;San Andreas ;27
+252;Tomorrow Never Dies ;135
+253;The Patriot ;30
+254;Ocean's Twelve ;67
+255;Mr. & Mrs. Smith ;61
+256;Insurgent ;143
+257;The Aviator ;41
+258;Gulliver's Travels ;125
+259;The Green Hornet ;145
+260;The A-Team             ;165
+261;300: Rise of an Empire ;35
+262;The Smurfs ;122
+263;Home on the Range ;121
+264;Allegiant ;48
+265;Real Steel ;156
+266;The Smurfs 2 ;122
+267;Speed 2: Cruise Control ;61
+268;Ender's Game ;156
+269;Live Free or Die Hard ;135
+270;The Lord of the Rings: The Fellowship of the Ring ;158
+271;Around the World in 80 Days ;76
+272;Ali ;117
+273;The Cat in the Hat ;125
+274;I, Robot ;48
+275;Kingdom of Heaven ;152
+276;Stuart Little ;125
+277;The Princess and the Frog ;119
+278;The Martian ;149
+279;10,000 B.C.             ;85
+280;The Island ;161
+281;Town & Country ;82
+282;Gone in Sixty Seconds ;58
+283;Gladiator ;163
+284;Minority Report ;48
+285;Harry Potter and the Chamber of Secrets ;124
+286;Casino Royale ;135
+287;Planet of the Apes ;137
+288;Terminator 2: Judgment Day ;156
+289;Public Enemies ;63
+290;American Gangster ;43
+291;True Lies ;145
+292;The Taking of Pelham 1 2 3 ;58
+293;Little Fockers ;82
+294;The Other Guys ;79
+295;Eraser ;56
+296;Django Unchained ;21
+297;The Hunchback of Notre Dame ;119
+298;The Emperor's New Groove ;122
+299;The Expendables 2 ;135
+300;National Treasure ;128
+301;Eragon ;126
+302;Where the Wild Things Are ;103
+304;Epic ;123
+305;The Tourist ;161
+306;End of Days ;10
+307;Blood Diamond ;150
+308;The Wolf of Wall Street ;40
+309;Batman Forever ;160
+310;Starship Troopers ;35
+311;Cloud Atlas ;22
+312;Legend of the Guardians: The Owls of Ga'Hoole ;126
+313;Catwoman ;61
+314;Hercules ;164
+315;Treasure Planet ;90
+316;Land of the Lost ;89
+317;The Expendables 3 ;135
+318;Point Break ;58
+319;Son of the Mask ;112
+320;In the Heart of the Sea ;152
+321;The Adventures of Pluto Nash ;157
+322;Green Zone ;26
+323;The Peanuts Movie ;132
+324;The Spanish Prisoner ;55
+325;The Mummy Returns ;138
+326;Gangs of New York ;59
+327;The Flowers of War ;32
+328;Surf's Up ;108
+329;The Stepford Wives ;145
+330;Black Hawk Down ;31
+331;The Campaign ;85
+332;The Fifth Element ;155
+333;Sex and the City 2 ;100
+334;The Road to El Dorado ;106
+335;Ice Age: Continental Drift ;132
+336;Cinderella ;103
+337;The Lovely Bones ;7
+338;Finding Nemo ;132
+339;The Lord of the Rings: The Return of the King ;158
+340;The Lord of the Rings: The Two Towers ;158
+341;Seventh Son ;160
+342;Lara Croft: Tomb Raider ;138
+343;Transcendence ;54
+344;Jurassic Park III ;137
+345;Rise of the Planet of the Apes ;141
+346;The Spiderwick Chronicles ;124
+347;A Good Day to Die Hard ;144
+348;The Alamo ;21
+349;The Incredibles ;126
+350;Cutthroat Island ;76
+351;Percy Jackson & the Olympians: The Lightning Thief ;124
+352;Men in Black ;90
+353;Toy Story 2 ;122
+354;Unstoppable ;144
+355;Rush Hour 2 ;80
+356;What Lies Beneath ;56
+357;Cloudy with a Chance of Meatballs ;129
+358;Ice Age: Dawn of the Dinosaurs ;128
+359;The Secret Life of Walter Mitty ;146
+360;Charlie's Angels ;76
+361;The Departed ;64
+362;Mulan ;119
+363;Tropic Thunder ;77
+364;The Girl with the Dragon Tattoo ;50
+365;Die Hard with a Vengeance ;135
+366;Sherlock Holmes ;46
+367;Ben-Hur ;152
+368;Atlantis: The Lost Empire ;126
+369;Alvin and the Chipmunks: The Road Chip ;120
+370;Valkyrie ;31
+371;You Don't Mess with the Zohan ;77
+372;Pixels ;157
+373;A.I. Artificial Intelligence ;149
+374;The Haunted Mansion ;124
+375;Contact ;23
+376;Hollow Man ;4
+377;The Interpreter ;45
+378;Percy Jackson: Sea of Monsters ;124
+379;Lara Croft Tomb Raider: The Cradle of Life ;160
+380;Now You See Me 2 ;76
+381;The Saint ;161
+382;Spy Game ;58
+383;Mission to Mars ;143
+384;Rio ;121
+385;Bicentennial Man ;88
+386;Volcano ;141
+387;The Devil's Own ;57
+388;K-19: The Widowmaker ;31
+390;Conan the Barbarian ;146
+391;Cinderella Man ;117
+392;The Nutcracker in 3D ;119
+393;Seabiscuit ;38
+394;Twister ;27
+396;Cast Away ;154
+397;Happy Feet ;106
+398;The Bourne Supremacy ;46
+399;Air Force One ;27
+400;Ocean's Eleven ;67
+401;The Three Musketeers ;161
+402;Hotel Transylvania ;131
+403;Enchanted ;120
+404;Hannibal             ;65
+405;Safe House ;46
+406;102 Dalmatians ;134
+407;Tower Heist ;79
+408;The Holiday ;82
+409;Enemy of the State ;49
+410;It's Complicated ;100
+411;Ocean's Thirteen ;67
+412;Open Season ;132
+413;Divergent ;48
+414;Enemy at the Gates ;31
+415;The Rundown ;145
+416;Last Action Hero ;78
+417;Memoirs of a Geisha ;101
+418;The Fast and the Furious: Tokyo Drift ;58
+419;Arthur Christmas ;122
+420;Meet Joe Black ;111
+421;Collateral Damage ;28
+422;All That Jazz ;96
+423;Mirror Mirror ;133
+424;Scott Pilgrim vs. the World ;78
+425;The Core ;137
+426;Nutty Professor II: The Klumps ;86
+427;Scooby-Doo ;51
+428;Dredd ;156
+429;Click ;110
+430;Creepshow ;113
+431;Cats & Dogs: The Revenge of Kitty Galore ;128
+432;Jumper ;137
+433;Hellboy II: The Golden Army ;2
+434;Zodiac ;50
+435;The 6th Day ;48
+436;Bruce Almighty ;114
+437;The Expendables ;135
+438;Mission: Impossible ;135
+439;The Hunger Games ;149
+440;The Hangover Part II ;85
+441;Batman Returns ;165
+442;Over the Hedge ;132
+443;Lilo & Stitch ;133
+444;Charlotte's Web ;112
+445;Deep Impact ;54
+446;RED 2 ;80
+447;The Longest Yard ;116
+448;Alvin and the Chipmunks: Chipwrecked ;120
+449;Grown Ups 2 ;85
+450;Get Smart ;76
+451;Something's Gotta Give ;100
+452;Shutter Island ;47
+453;Four Christmases ;100
+454;Robots ;129
+455;Face/Off ;139
+456;Bedtime Stories ;105
+457;Road to Perdition ;64
+458;Just Go with It ;82
+459;Daredevil             ;139
+460;Con Air ;58
+461;Eagle Eye ;46
+462;Cold Mountain ;31
+463;The Book of Eli ;27
+464;Flubber ;90
+465;The Haunting ;12
+466;Space Jam ;129
+467;The Pink Panther ;134
+468;The Day the Earth Stood Still ;24
+469;Conspiracy Theory ;61
+470;Fury ;35
+471;Six Days Seven Nights ;162
+472;Yogi Bear ;132
+473;Spirit: Stallion of the Cimarron ;132
+474;Zookeeper ;105
+475;Lost in Space ;138
+476;The Manchurian Candidate ;23
+477;Déjà Vu ;101
+478;Hotel Transylvania 2 ;131
+479;Bewitched             ;112
+480;Fantasia 2000 ;119
+481;The Time Machine ;155
+482;Mighty Joe Young ;138
+483;Swordfish ;58
+484;The Legend of Zorro ;164
+485;What Dreams May Come ;111
+486;Little Nicky ;113
+487;The Brothers Grimm ;145
+488;Mars Attacks! ;157
+489;Evolution ;16
+490;The Edge ;27
+491;Surrogates ;140
+492;Thirteen Days ;37
+493;Daylight ;27
+494;Walking with Dinosaurs 3D ;132
+495;Battlefield Earth ;155
+496;Looney Tunes: Back in Action ;129
+497;Nine ;94
+498;Timeline ;155
+499;The Postman ;149
+500;Babe: Pig in the City ;133
+501;The Last Witch Hunter ;160
+502;Red Planet ;140
+503;Arthur and the Invisibles ;123
+504;Oceans ;71
+505;A Sound of Thunder ;4
+506;Pompeii ;153
+507;Top Cat Begins ;130
+508;A Beautiful Mind ;41
+509;The Lion King ;121
+510;Journey 2: The Mysterious Island ;125
+511;Cloudy with a Chance of Meatballs 2 ;129
+512;Red Dragon ;64
+513;Hidalgo ;164
+514;Jack and Jill ;85
+515;2 Fast 2 Furious ;58
+516;The Little Prince ;103
+517;The Invasion ;143
+518;The Adventures of Rocky & Bullwinkle ;122
+519;The Secret Life of Pets ;131
+520;The League of Extraordinary Gentlemen ;159
+521;Despicable Me 2 ;129
+522;Independence Day ;155
+523;The Lost World: Jurassic Park ;155
+524;Madagascar ;132
+525;Children of Men ;24
+526;X-Men ;155
+527;Wanted ;3
+528;The Rock ;135
+529;Ice Age: The Meltdown ;128
+530;50 First Dates ;82
+531;Hairspray ;93
+532;Exorcist: The Beginning ;11
+533;Inspector Gadget ;127
+534;Now You See Me ;45
+535;Grown Ups ;85
+536;The Terminal ;114
+537;Constantine             ;7
+538;Hotel for Dogs ;107
+539;Vertical Limit ;27
+540;Charlie Wilson's War ;36
+541;Shark Tale ;132
+542;Dreamgirls ;98
+543;Life             ;53
+544;Be Cool ;92
+545;Munich ;37
+546;Tears of the Sun ;26
+547;Killers ;162
+548;The Man from U.N.C.L.E. ;76
+549;Spanglish ;100
+550;Monster House ;131
+551;Bandits ;75
+552;First Knight ;161
+553;Anna and the King ;38
+554;Immortals ;163
+555;Hostage ;49
+556;Titan A.E. ;126
+557;Hollywood Homicide ;80
+558;Soldier ;141
+559;Carriers ;24
+560;Monkeybone ;130
+561;Flight of the Phoenix ;27
+562;Unbreakable ;23
+563;Minions ;129
+564;Sucker Punch ;3
+565;Snake Eyes ;45
+566;Sphere ;23
+567;The Angry Birds Movie ;129
+568;Fool's Gold ;145
+569;Funny People ;114
+570;The Kingdom ;28
+571;Talladega Nights: The Ballad of Ricky Bobby ;77
+572;Dr. Dolittle 2 ;112
+573;Braveheart ;29
+574;Jarhead ;35
+575;The Simpsons Movie ;132
+576;The Majestic ;101
+577;Driven ;163
+578;Two Brothers ;134
+579;The Village ;54
+580;Doctor Dolittle ;112
+581;Signs ;24
+582;Shrek 2 ;106
+583;Cars ;108
+584;Runaway Bride ;82
+585;xXx ;135
+586;The SpongeBob Movie: Sponge Out of Water ;122
+587;Ransom ;67
+588;Inglourious Basterds ;154
+589;Hook ;125
+591;Die Hard 2 ;144
+592;S.W.A.T. ;136
+593;Sleepy Hollow             ;56
+594;Vanilla Sky ;47
+595;Lady in the Water ;56
+596;AVP: Alien vs. Predator ;4
+597;Alvin and the Chipmunks: The Squeakquel ;120
+598;We Were Soldiers ;30
+599;Olympus Has Fallen ;144
+600;Star Trek: Insurrection ;137
+601;Battle Los Angeles ;156
+602;Big Fish ;146
+603;Wolf ;14
+604;War Horse ;34
+605;The Monuments Men ;34
+606;The Abyss ;149
+607;Wall Street: Money Never Sleeps ;19
+608;Dracula Untold ;35
+609;The Siege ;144
+610;Stardust ;106
+611;Seven Years in Tibet ;29
+612;The Dilemma ;114
+613;Bad Company ;145
+614;Doom ;2
+615;I Spy ;145
+616;Underworld: Awakening ;3
+617;Rock of Ages ;95
+618;Hart's War ;34
+619;Killer Elite ;58
+620;Rollerball ;156
+621;Ballistic: Ecks vs. Sever ;139
+622;Hard Rain ;57
+623;Osmosis Jones ;128
+624;Legends of Oz: Dorothy's Return ;119
+625;Blackhat ;49
+626;Sky Captain and the World of Tomorrow ;48
+627;Basic Instinct 2 ;45
+628;Escape Plan ;139
+629;The Legend of Hercules ;160
+630;The Sum of All Fears ;28
+631;The Twilight Saga: Eclipse ;146
+632;The Score ;64
+633;Despicable Me ;131
+634;Money Train ;81
+635;Ted 2 ;85
+636;Agora ;38
+637;Mystery Men ;157
+638;Hall Pass ;82
+639;The Insider ;42
+640;The Finest Hours ;30
+641;Body of Lies ;28
+642;Dinner for Schmucks ;85
+643;Abraham Lincoln: Vampire Hunter ;3
+644;Entrapment ;61
+645;Last Man Standing             ;85
+646;The X Files ;23
+647;The Last Legion ;158
+648;Saving Private Ryan ;35
+649;Need for Speed ;57
+650;What Women Want ;83
+651;Ice Age ;132
+652;Dreamcatcher ;24
+653;Lincoln ;29
+654;The Matrix ;156
+655;Apollo 13 ;152
+657;The Santa Clause 2 ;112
+658;Les Misérables ;94
+659;You've Got Mail ;100
+660;Step Brothers ;85
+661;The Mask of Zorro ;145
+662;Due Date ;114
+663;Unbroken ;29
+664;Space Cowboys ;135
+665;Cliffhanger ;135
+666;Broken Arrow ;58
+667;The Kid ;112
+668;World Trade Center ;37
+669;Mona Lisa Smile ;19
+670;The Dictator ;82
+671;Eyes Wide Shut ;55
+672;Annie ;121
+673;Focus ;75
+674;This Means War ;162
+675;Blade: Trinity ;4
+676;Red Dawn ;35
+677;Primary Colors ;114
+678;Resident Evil: Retribution ;4
+679;Death Race ;140
+680;The Long Kiss Goodnight ;49
+681;Proof of Life ;28
+682;Zathura: A Space Adventure ;125
+683;Fight Club ;19
+684;We Are Marshall ;118
+685;The Missing             ;53
+686;Hudson Hawk ;76
+687;Lucky Numbers ;73
+688;I, Frankenstein ;3
+689;Oliver Twist ;59
+690;Elektra ;3
+691;Sin City: A Dame to Kill For ;58
+692;Random Hearts ;54
+693;Everest ;152
+694;Perfume: The Story of a Murderer ;111
+695;Austin Powers in Goldmember ;79
+696;Astro Boy ;129
+697;Jurassic Park ;143
+698;Wyatt Earp ;151
+699;Clear and Present Danger ;57
+700;Dragon Blade ;152
+701;Littleman ;73
+702;U-571 ;35
+703;The American President ;100
+704;The Love Guru ;116
+705;3000 Miles to Graceland ;80
+706;The Hateful Eight ;50
+707;Blades of Glory ;116
+708;Hop ;122
+709;300 ;35
+710;Meet the Fockers ;82
+711;Marley & Me ;102
+712;The Green Mile ;111
+713;Wild Hogs ;76
+714;Chicken Little ;129
+715;Gone Girl ;50
+716;The Bourne Identity ;46
+717;GoldenEye ;135
+718;The General's Daughter ;55
+719;The Truman Show ;88
+720;The Prince of Egypt ;119
+721;Daddy Day Care ;107
+722;2 Guns ;81
+723;Cats & Dogs ;128
+724;The Italian Job ;58
+725;Two Weeks Notice ;82
+726;Antz ;132
+727;Couples Retreat ;85
+728;Days of Thunder ;163
+729;Cheaper by the Dozen 2 ;134
+730;The Scorch Trials ;140
+731;Eat Pray Love ;101
+732;The Family Man ;110
+733;RED ;80
+734;Any Given Sunday ;118
+735;The Horse Whisperer ;21
+736;Collateral ;64
+737;The Scorpion King ;138
+738;Ladder 49 ;28
+739;Jack Reacher ;46
+740;Deep Blue Sea ;140
+741;This Is It ;68
+742;Contagion ;25
+743;Kangaroo Jack ;76
+744;Coraline ;131
+745;The Happening ;143
+746;Man on Fire ;57
+747;The Shaggy Dog ;112
+748;Starsky & Hutch ;73
+749;Jingle All the Way ;107
+750;Hellboy ;2
+751;A Civil Action ;19
+752;ParaNorman ;122
+753;The Jackal ;136
+754;Paycheck ;48
+755;Up Close & Personal ;101
+756;The Tale of Despereaux ;122
+757;Rules of Engagement             ;82
+758;The Tuxedo ;157
+759;Under Siege 2: Dark Territory ;144
+760;Jack Ryan: Shadow Recruit ;28
+761;Joy ;40
+762;London Has Fallen ;57
+763;Alien: Resurrection ;2
+764;Shooter ;49
+765;The Boxtrolls ;122
+766;Practical Magic ;110
+767;The Lego Movie ;128
+768;Miss Congeniality 2: Armed and Fabulous ;79
+769;Reign of Fire ;138
+770;Gangster Squad ;57
+771;Year One ;148
+772;Invictus ;38
+773;State of Play ;50
+774;Duplicity ;61
+775;My Favorite Martian ;90
+776;The Sentinel ;58
+777;Planet 51 ;129
+778;Star Trek: Nemesis ;137
+779;Intolerable Cruelty ;72
+780;Trouble with the Curve ;118
+781;Edge of Darkness ;50
+782;The Relic ;16
+783;Analyze That ;73
+784;Righteous Kill ;49
+785;Mercury Rising ;57
+786;The Soloist ;97
+787;The Legend of Bagger Vance ;111
+788;Almost Famous ;96
+789;Garfield 2 ;131
+790;xXx: State of the Union ;136
+791;Priest ;3
+792;Sinbad: Legend of the Seven Seas ;106
+793;Event Horizon ;15
+795;Dragonfly ;54
+796;The Black Dahlia ;50
+797;Flyboys ;153
+798;The Last Castle ;28
+799;Supernova ;15
+800;Winter's Tale ;54
+801;The Mortal Instruments: City of Bones ;10
+802;Meet Dave ;90
+803;Dark Water ;14
+804;Edtv ;114
+805;Inkheart ;124
+806;The Spirit ;3
+807;Mortdecai ;51
+808;In the Name of the King: A Dungeon Siege Tale ;138
+809;Beyond Borders ;154
+810;Xi you ji zhi: Sun Wukong san da Baigu Jing ;160
+811;The Great Raid ;35
+812;Deadpool ;162
+813;Holy Man ;114
+814;American Sniper ;30
+815;Goosebumps ;124
+816;Sabrina, the Teenage Witch             ;112
+817;Just Like Heaven ;83
+818;The Flintstones in Viva Rock Vegas ;90
+819;Rambo III ;26
+820;Leatherheads ;115
+821;The Ridiculous 6 ;148
+822;Did You Hear About the Morgans? ;100
+823;The Internship ;85
+824;Resident Evil: Afterlife ;2
+825;Red Tails ;152
+826;Sex and the City             ;82
+827;The Devil's Advocate ;55
+828;That's My Boy ;85
+829;DragonHeart ;160
+830;After the Sunset ;81
+831;Ghost Rider: Spirit of Vengeance ;3
+832;Captain Corelli's Mandolin ;95
+833;Anger Management             ;82
+834;The Pacifier ;145
+835;Walking Tall ;165
+836;Forrest Gump ;114
+837;Alvin and the Chipmunks ;120
+838;Meet the Parents ;85
+839;Pocahontas ;119
+840;Superman ;161
+841;The Nutty Professor ;86
+842;Hitch ;82
+843;George of the Jungle ;162
+844;American Wedding ;82
+845;Captain Phillips ;42
+846;Date Night ;61
+847;Casper ;112
+848;The Equalizer ;58
+849;Maid in Manhattan ;100
+850;Crimson Tide ;26
+851;The Pursuit of Happyness ;41
+852;Flightplan ;55
+853;Disclosure ;25
+854;City of Angels ;111
+855;Kill Bill: Vol. 1 ;165
+856;Bowfinger ;85
+857;Stargate SG-1             ;149
+858;Kill Bill: Vol. 2 ;57
+859;Tango & Cash ;80
+860;Death Becomes Her ;113
+861;Shanghai Noon ;148
+862;Executive Decision ;135
+863;Mr. Popper's Penguins ;112
+864;The Forbidden Kingdom ;160
+865;Free Birds ;132
+866;Alien 3 ;2
+867;Evita ;36
+868;Ronin ;136
+869;The Ghost and the Darkness ;18
+870;Paddington ;131
+871;The Watch ;157
+872;The Hunted ;57
+873;Instinct ;25
+874;Stuck on You ;85
+875;Semi-Pro ;116
+876;The Pirates! Band of Misfits ;132
+877;Changeling ;50
+878;Chain Reaction ;141
+879;The Fan ;163
+880;The Phantom of the Opera ;99
+881;Elizabeth: The Golden Age ;29
+882;Æon Flux ;156
+883;Gods and Generals ;31
+884;Turbulence ;144
+885;Imagine That ;110
+886;Muppets Most Wanted ;121
+887;Thunderbirds ;127
+888;Burlesque ;94
+889;A Very Long Engagement ;32
+890;Lolita ;63
+891;Eye See You ;45
+892;Blade II ;4
+893;Seven Pounds ;101
+894;Bullet to the Head ;144
+895;The Godfather: Part III ;59
+896;Elizabethtown ;100
+897;You, Me and Dupree ;82
+898;Superman II ;161
+899;Gigli ;72
+900;All the King's Men ;25
+901;Shaft ;58
+902;Anastasia ;119
+903;Moulin Rouge! ;94
+904;Domestic Disturbance ;45
+905;Black Mass ;43
+906;Flags of Our Fathers ;31
+907;Law Abiding Citizen ;64
+908;Grindhouse ;4
+909;Beloved ;14
+910;Lucky You ;118
+911;Catch Me If You Can ;43
+912;Zero Dark Thirty ;37
+913;The Break-Up ;100
+914;Mamma Mia! ;91
+915;Valentine's Day ;82
+916;The Dukes of Hazzard ;76
+917;The Thin Red Line ;34
+918;The Change-Up ;113
+919;Man on the Moon ;40
+920;Casino ;43
+921;From Paris with Love ;144
+922;Bulletproof Monk ;78
+923;Me, Myself & Irene ;85
+924;Barnyard ;131
+925;Deck the Halls ;107
+926;The Twilight Saga: New Moon ;146
+927;Shrek ;122
+928;The Adjustment Bureau ;86
+929;Robin Hood: Prince of Thieves ;153
+930;Jerry Maguire ;115
+931;Ted ;113
+932;As Good as It Gets ;100
+933;Patch Adams ;40
+934;Anchorman 2: The Legend Continues ;85
+935;Mr. Deeds ;82
+936;Super 8 ;47
+937;Erin Brockovich ;41
+938;How to Lose a Guy in 10 Days ;82
+939;22 Jump Street ;79
+940;Interview with the Vampire: The Vampire Chronicles ;5
+941;Yes Man ;82
+942;Central Intelligence ;79
+943;Stepmom ;114
+944;Daddy's Home ;107
+945;Into the Woods ;96
+946;Inside Man ;50
+947;Payback ;57
+948;Congo ;48
+949;We Bought a Zoo ;102
+950;Knowing ;23
+951;Failure to Launch ;82
+952;The Ring Two ;10
+953;Crazy, Stupid, Love. ;100
+954;Garfield ;131
+955;Christmas with the Kranks ;107
+956;Moneyball ;117
+957;Outbreak ;28
+958;Non-Stop ;46
+959;Race to Witch Mountain ;138
+960;V for Vendetta ;28
+961;Shanghai Knights ;76
+962;Unforgotten             ;59
+963;Curious George ;132
+964;Herbie Fully Loaded ;106
+965;Don't Say a Word ;50
+966;Hansel & Gretel: Witch Hunters ;3
+967;Unfaithful ;25
+968;I Am Number Four ;137
+969;Syriana ;25
+970;13 Hours ;26
+971;The Book of Life ;106
+972;Firewall ;67
+973;Absolute Power ;57
+974;G.I. Jane ;35
+975;The Game ;55
+976;Silent Hill ;18
+977;The Replacements ;116
+978;American Reunion ;85
+979;The Negotiator ;49
+980;Into the Storm ;144
+981;Beverly Hills Cop III ;80
+982;Gremlins 2: The New Batch ;113
+983;The Judge ;59
+984;The Peacemaker ;144
+985;Resident Evil: Apocalypse ;4
+986;Bridget Jones: The Edge of Reason ;100
+987;Out of Time ;62
+988;On Deadly Ground ;135
+989;The Adventures of Sharkboy and Lavagirl 3-D ;126
+990;The Beach ;150
+991;Raising Helen ;100
+992;Ninja Assassin ;58
+993;For Love of the Game ;118
+994;A Touch of Frost             ;53
+995;Striptease ;75
+996;Marmaduke ;107
+997;Hereafter ;111
+998;Murder by Numbers ;45
+999;Assassins ;58
+1000;Hannibal Rising ;64
+1001;The Story of Us ;100
+1002;The Host ;161
+1003;Basic ;49
+1004;Blood Work ;49
+1005;The International ;49
+1006;Escape from L.A. ;137
+1007;Twisted             ;55
+1008;The Iron Giant ;127
+1009;The Life Aquatic with Steve Zissou ;147
+1010;Free State of Jones ;30
+1011;The Life of David Gale ;64
+1012;Man of the House ;77
+1013;Run All Night ;57
+1014;Eastern Promises ;45
+1015;Into the Blue ;136
+1016;The Messenger: The Story of Joan of Arc ;29
+1017;Your Highness ;146
+1018;Dream House ;55
+1019;Mad City ;64
+1020;Baby's Day Out ;133
+1021;The Scarlet Letter ;101
+1022;Fair Game ;42
+1023;Defiance             ;141
+1024;Domino ;44
+1025;Jade ;64
+1026;Gamer ;140
+1027;Beautiful Creatures ;111
+1028;Death to Smoochy ;75
+1029;Zoolander 2 ;85
+1030;The Big Bounce ;73
+1031;What Planet Are You From? ;88
+1032;Drive Angry ;3
+1033;Street Fighter: The Legend of Chun-Li ;49
+1034;The One ;140
+1035;Outlander             ;22
+1036;The Adventures of Ford Fairlane ;76
+1037;Pirate Radio ;96
+1038;Traffic ;64
+1039;Indiana Jones and the Last Crusade ;160
+1040;Anna Karenina ;101
+1041;Chappie ;139
+1042;The Bone Collector ;50
+1043;Panic Room ;64
+1044;The Tooth Fairy ;17
+1045;Three Kings ;33
+1046;Child 44 ;64
+1047;Rat Race ;148
+1048;K-PAX ;22
+1049;Kate & Leopold ;83
+1050;Bedazzled ;83
+1051;The Cotton Club ;99
+1052;3:10 to Yuma ;151
+1053;Taken 3 ;144
+1054;Out of Sight ;62
+1055;The Cable Guy ;75
+1056;Earth ;32
+1057;Dick Tracy ;61
+1058;The Thomas Crown Affair ;61
+1059;Riding in Cars with Boys ;40
+1060;First Blood ;158
+1061;Solaris ;22
+1062;Happily N'Ever After ;122
+1063;Mary Reilly ;14
+1064;My Best Friend's Wedding ;82
+1065;America's Sweethearts ;82
+1066;Insomnia ;55
+1067;Star Trek: First Contact ;149
+1068;Jonah Hex ;20
+1069;Courage Under Fire ;26
+1070;Liar Liar ;83
+1071;The Infiltrator ;42
+1072;Inchon ;31
+1073;The Flintstones ;112
+1074;Taken 2 ;58
+1075;Scary Movie 3 ;85
+1076;Miss Congeniality ;61
+1077;Journey to the Center of the Earth ;126
+1078;The Princess Diaries 2: Royal Engagement ;105
+1079;The Pelican Brief ;50
+1080;The Client ;50
+1081;The Bucket List ;147
+1082;Patriot Games ;144
+1083;Monster-in-Law ;82
+1084;Prisoners ;50
+1085;Training Day ;64
+1086;Galaxy Quest ;89
+1087;Scary Movie 2 ;85
+1088;The Muppets ;121
+1089;Blade ;1
+1090;Coach Carter ;118
+1091;Changing Lanes ;25
+1092;Anaconda ;4
+1093;Coyote Ugly ;95
+1094;Love Actually ;100
+1095;A Bug's Life ;122
+1096;From Hell ;11
+1097;The Specialist ;61
+1098;Tin Cup ;115
+1099;Yours, Mine and Ours ;107
+1100;Kicking & Screaming ;109
+1101;The Hitchhiker's Guide to the Galaxy ;89
+1102;Fat Albert ;105
+1103;Resident Evil: Extinction ;4
+1104;Blended ;82
+1105;Last Holiday ;147
+1106;The River Wild ;136
+1107;The Indian in the Cupboard ;103
+1108;Savages ;64
+1109;Cellular ;58
+1110;Johnny English ;76
+1111;The Ant Bully ;122
+1112;Dune ;155
+1113;Across the Universe ;111
+1114;Revolutionary Road ;101
+1115;16 Blocks ;57
+1116;Babylon A.D. ;137
+1117;The Glimmer Man ;81
+1118;Multiplicity ;86
+1119;Aliens in the Attic ;125
+1120;The Pledge ;50
+1121;The Producers ;92
+1123;The Phantom ;78
+1124;All the Pretty Horses ;21
+1125;Nixon ;36
+1126;The Ghost Writer ;47
+1127;Deep Rising ;2
+1128;Miracle at St. Anna ;26
+1129;Curse of the Golden Flower ;101
+1130;Bangkok Dangerous ;58
+1131;Big Trouble ;66
+1132;Love in the Time of Cholera ;101
+1133;The Returned             ;10
+1134;Shadow Conspiracy ;144
+1135;Johnny English Reborn ;76
+1136;Foodfight! ;129
+1137;Argo ;37
+1138;The Fugitive ;136
+1139;The Bounty Hunter ;162
+1140;Sleepers ;64
+1141;Rambo: First Blood Part II ;26
+1142;The Juror ;25
+1143;Pinocchio ;119
+1144;Heaven's Gate ;151
+1145;Underworld: Evolution ;138
+1146;Victor Frankenstein ;24
+1147;Finding Forrester ;19
+1148;28 Days ;114
+1149;Unleashed ;57
+1150;The Sweetest Thing ;82
+1151;The Firm ;55
+1152;Charlie St. Cloud ;111
+1153;The Mechanic ;58
+1154;21 Jump Street ;79
+1155;Notting Hill ;100
+1156;Chicken Run ;133
+1157;Along Came Polly ;82
+1158;Boomerang ;100
+1159;The Heat ;79
+1160;Cleopatra ;39
+1161;Here Comes the Boom ;77
+1162;High Crimes ;50
+1163;The Mirror Has Two Faces ;100
+1164;The Mothman Prophecies ;13
+1165;Brüno ;85
+1166;Licence to Kill ;135
+1167;Red Riding Hood ;12
+1168;15 Minutes ;57
+1169;Super Mario Bros. ;125
+1170;Lord of War ;64
+1171;Hero ;152
+1172;One for the Money ;61
+1173;The Interview ;85
+1174;The Warrior's Way ;20
+1175;McHale's Navy             ;33
+1176;Micmacs ;79
+1177;8 Mile ;98
+1178;Animal Kingdom: Let's go Ape ;132
+1179;A Knight's Tale ;161
+1180;The Medallion ;78
+1181;The Sixth Sense ;55
+1182;Man on a Ledge ;58
+1183;The Big Year ;85
+1184;The Karate Kid ;109
+1185;American Hustle ;59
+1186;The Proposal ;100
+1187;Double Jeopardy ;45
+1188;Back to the Future Part II ;89
+1189;Lucy ;140
+1190;Fifty Shades of Grey ;101
+1191;Spy Kids 3-D: Game Over ;127
+1192;A Time to Kill ;64
+1193;Cheaper by the Dozen ;107
+1194;Lone Survivor ;26
+1195;A League of Their Own ;115
+1196;The Conjuring 2 ;11
+1197;The Social Network ;41
+1198;He's Just Not That Into You ;100
+1199;Scary Movie 4 ;85
+1200;Scream 3 ;10
+1201;Back to the Future Part III ;148
+1202;Get Hard ;73
+1203;Bram Stoker's Dracula ;5
+1204;Julie & Julia ;39
+1205;42 ;117
+1206;The Talented Mr. Ripley ;64
+1207;Dumb and Dumber To ;85
+1208;Eight Below ;134
+1209;The Intern ;114
+1210;Ride Along 2 ;77
+1211;The Last of the Mohicans ;153
+1212;Ray ;97
+1213;Sin City ;67
+1214;Vantage Point ;50
+1215;I Love You, Man ;82
+1216;Shallow Hal ;110
+1217;JFK ;37
+1218;Big Momma's House 2 ;73
+1219;The Mexican ;147
+1221;17 Again ;110
+1222;The Other Woman ;82
+1223;The Final Destination ;8
+1224;Bridge of Spies ;37
+1225;Behind Enemy Lines ;26
+1226;Get Him to the Greek ;92
+1227;Shall We Dance ;100
+1228;Small Soldiers ;127
+1229;Spawn ;1
+1230;The Count of Monte Cristo ;153
+1231;The Lincoln Lawyer ;64
+1232;Unknown ;46
+1233;The Prestige ;23
+1234;Horrible Bosses 2 ;73
+1235;Escape from Planet Earth ;129
+1236;Apocalypto ;27
+1237;The Living Daylights ;135
+1238;Predators ;137
+1239;Legal Eagles ;72
+1240;Secret Window ;47
+1241;The Lake House ;111
+1242;The Skeleton Key ;11
+1243;The Odd Life of Timothy Green ;110
+1244;Made of Honor ;82
+1245;Jersey Boys ;97
+1246;The Rainmaker ;64
+1247;Gothika ;11
+1248;Amistad ;38
+1249;Medicine Man ;154
+1250;Aliens vs. Predator: Requiem ;4
+1251;Ri¢hie Ri¢h ;107
+1252;Autumn in New York ;101
+1253;Music and Lyrics ;91
+1254;Paul ;89
+1255;The Guilt Trip ;114
+1256;Scream 4 ;10
+1257;8MM ;47
+1258;The Doors ;97
+1259;Sex Tape ;85
+1260;Hanging Up ;114
+1261;Final Destination 5 ;8
+1262;Mickey Blue Eyes ;72
+1263;Pay It Forward ;19
+1264;Fever Pitch ;115
+1265;Arthur             ;131
+1266;Drillbit Taylor ;114
+1267;A Million Ways to Die in the West ;148
+1268;The Shadow ;46
+1269;Extremely Loud & Incredibly Close ;52
+1270;Morning Glory ;100
+1271;Get Rich or Die Tryin' ;43
+1272;The Art of War ;136
+1273;Rent ;94
+1274;Bless the Child ;65
+1275;The Out-of-Towners ;85
+1276;The Island of Dr. Moreau ;15
+1277;The Musketeer ;161
+1278;The Other Boleyn Girl ;39
+1279;Sweet November ;101
+1280;The Reaping ;17
+1281;Mean Streets ;62
+1282;Renaissance Man ;114
+1283;Colombiana ;57
+1284;The Magic Sword: Quest for Camelot ;121
+1285;City by the Sea ;50
+1286;At First Sight ;101
+1287;Torque ;79
+1288;City Hall ;25
+1289;Showgirls ;19
+1290;Marie Antoinette ;39
+1291;Kiss of Death ;58
+1292;Get Carter ;57
+1293;The Impossible ;25
+1294;Ishtar ;76
+1295;Fantastic Mr. Fox ;132
+1296;Life or Something Like It ;82
+1297;Memoirs of an Invisible Man ;86
+1298;Amélie ;82
+1299;New York Minute ;107
+1300;Alfie ;100
+1301;Big Miracle ;39
+1302;The Deep End of the Ocean ;19
+1303;Feardotcom ;65
+1304;Cirque du Freak: The Vampire's Assistant ;138
+1306;Duplex ;85
+1307;Soul Men ;96
+1308;Raise the Titanic ;27
+1309;Universal Soldier: The Return ;156
+1310;Pandorum ;12
+1311;Impostor ;23
+1312;Extreme Ops ;135
+1313;Just Visiting ;88
+1314;Sunshine ;143
+1315;A Thousand Words ;114
+1316;Delgo ;106
+1317;The Gunman ;49
+1318;Alex Rider: Operation Stormbreaker ;138
+1319;Disturbia ;55
+1320;Hackers ;75
+1321;The Hunting Party ;32
+1322;The Hudsucker Proxy ;113
+1323;The Warlords ;30
+1324;Nomad: The Warrior ;31
+1325;Snowpiercer ;141
+1326;A Monster in Paris ;106
+1327;The Last Shot ;85
+1328;The Crow ;3
+1329;Baahubali: The Beginning ;158
+1330;The Time Traveler's Wife ;22
+1331;Because I Said So ;82
+1333;Frankenweenie ;129
+1334;Serenity ;137
+1335;Against the Ropes ;118
+1336;Superman III ;157
+1337;Grudge Match ;116
+1338;Red Cliff ;152
+1339;Sweet Home Alabama ;82
+1340;The Ugly Truth ;82
+1341;Sgt. Bilko ;85
+1342;Spy Kids 2: Island of Lost Dreams ;127
+1343;Star Trek: Generations ;48
+1344;The Grandmaster ;44
+1345;Water for Elephants ;101
+1346;3rd Rock from the Sun             ;90
+1347;Dragon Nest: Warriors' Dawn ;123
+1348;The Hurricane ;117
+1349;Enough ;64
+1350;Heartbreakers ;72
+1351;Paul Blart: Mall Cop 2 ;79
+1352;Angel Eyes ;101
+1353;Joe Somebody ;114
+1354;The Ninth Gate ;47
+1355;Extreme Measures ;50
+1356;Rock Star ;98
+1357;Precious ;19
+1358;White Squall ;150
+1359;The Thing ;16
+1360;Riddick ;140
+1361;Switchback ;45
+1362;Texas Rangers ;151
+1363;City of Ember ;125
+1364;The Master ;19
+1365;Virgin Territory ;148
+1366;The Express ;117
+1367;The 5th Wave ;137
+1368;Creed ;118
+1369;The Town ;64
+1370;What to Expect When You're Expecting ;100
+1371;Burn After Reading ;114
+1372;Nim's Island ;125
+1373;Rush ;44
+1374;Magnolia ;19
+1375;Cop Out ;79
+1376;How to Be Single ;82
+1377;Dolphin Tale ;104
+1378;Twilight ;111
+1379;John Q ;64
+1380;Blue Streak ;80
+1381;We're the Millers ;73
+1382;Obitaemyy ostrov ;155
+1383;Breakdown ;49
+1384;Never Say Never Again ;135
+1385;Hot Tub Time Machine ;88
+1386;Dolphin Tale 2 ;104
+1387;Reindeer Games ;61
+1388;A Man Apart ;57
+1389;Aloha ;100
+1390;Ghosts of Mississippi ;38
+1391;Snow Falling on Cedars ;54
+1392;The Rite ;13
+1393;Gattaca ;24
+1394;Isn't She Great ;40
+1395;Space Chimps ;129
+1396;Head of State ;85
+1397;The Hangover ;85
+1398;Ip Man 3 ;44
+1399;Austin Powers: The Spy Who Shagged Me ;76
+1400;Batman ;164
+1401;There Be Dragons ;29
+1402;Lethal Weapon 3 ;58
+1403;The Blind Side ;117
+1404;Rush Hour             ;79
+1405;Spy Kids ;127
+1406;Horrible Bosses ;73
+1407;True Grit ;151
+1408;The Devil Wears Prada ;100
+1409;Star Trek: The Motion Picture ;48
+1410;Identity Thief ;73
+1411;Cape Fear ;67
+1412;21 ;64
+1413;Trainwreck ;82
+1414;Guess Who ;82
+1415;The English Patient ;32
+1416;L.A. Confidential ;50
+1417;Sky High ;90
+1418;In & Out ;85
+1419;Species ;4
+1420;A Nightmare on Elm Street ;8
+1421;The Cell ;15
+1422;The Man in the Iron Mask ;164
+1423;Secretariat ;117
+1424;TMNT ;127
+1425;Radio ;117
+1426;Friends with Benefits ;82
+1427;Neighbors 2: Sorority Rising ;85
+1428;Saving Mr. Banks ;36
+1429;Malcolm X ;39
+1430;This Is 40 ;85
+1431;Old Dogs ;107
+1432;Underworld: Rise of the Lycans ;138
+1433;License to Wed ;82
+1434;The Benchwarmers ;116
+1435;Must Love Dogs ;82
+1436;Donnie Brasco ;43
+1437;Resident Evil ;2
+1438;Poltergeist ;5
+1439;The Ladykillers ;66
+1440;Max Payne ;49
+1441;In Time ;140
+1442;The Back-up Plan ;82
+1443;Something Borrowed ;100
+1444;Hit the Floor             ;101
+1445;Black Knight ;146
+1446;The Bad News Bears ;109
+1447;Street Fighter ;145
+1448;The Pianist ;29
+1450;The Nativity Story ;103
+1451;House of Wax ;8
+1452;Closer ;101
+1453;J. Edgar ;43
+1454;Mirrors ;10
+1455;Queen of the Damned ;5
+1456;Predator 2 ;2
+1457;Untraceable ;64
+1458;Blast from the Past ;86
+1459;Flash Gordon ;155
+1460;Jersey Girl ;100
+1461;Alex Cross ;46
+1462;Midnight in the Garden of Good and Evil ;50
+1463;Heist ;58
+1464;Nanny McPhee Returns ;112
+1465;Hoffa ;43
+1466;The X Files: I Want to Believe ;23
+1467;Ella Enchanted ;105
+1468;Concussion ;117
+1469;Abduction ;46
+1470;Valiant ;132
+1471;Wonder Boys ;114
+1472;Superhero Movie ;145
+1473;Broken City ;64
+1474;Cursed ;9
+1475;Premium Rush ;58
+1476;Hot Pursuit ;79
+1477;The Four Feathers ;154
+1478;Parker ;61
+1479;Wimbledon ;116
+1480;Furry Vengeance ;107
+1481;Bait ;2
+1482;Krull ;160
+1483;Lions for Lambs ;26
+1484;Flight of the Intruder ;26
+1485;Walk Hard: The Dewey Cox Story ;92
+1486;The Shipping News ;19
+1487;American Outlaws ;20
+1488;The Young Victoria ;39
+1489;Whiteout ;46
+1490;The Tree of Life ;111
+1491;Knock Off ;145
+1492;Sabotage ;57
+1493;The Order ;46
+1494;Punisher: War Zone ;57
+1495;Zoom ;126
+1496;The Walk ;42
+1497;Warriors of Virtue ;160
+1498;A Good Year ;100
+1499;Luther             ;50
+1500;Radio Flyer ;19
+1501;Blood In, Blood Out ;59
+1502;Smilla's Sense of Snow ;141
+1503;Femme Fatale ;50
+1504;Lion of the Desert ;29
+1505;The Horseman on the Roof ;154
+1506;Ride with the Devil ;21
+1507;Biutiful ;19
+1509;Bandidas ;79
+1510;Black Water Transit ;59
+1511;The Maze Runner ;48
+1512;Unfinished Business ;85
+1513;The Age of Innocence ;101
+1514;The Fountain ;22
+1515;Chill Factor ;145
+1516;Stolen ;57
+1517;Ponyo ;123
+1518;The Longest Ride ;101
+1519;The Astronaut's Wife ;24
+1520;I Dreamed of Africa ;154
+1521;Playing for Keeps ;116
+1522;Mandela: Long Walk to Freedom ;36
+1523;Reds ;39
+1524;A Few Good Men ;25
+1525;Exit Wounds ;81
+1526;Big Momma's House ;79
+1527;Thunder and the House of Magic ;122
+1528;The Darkest Hour ;4
+1529;Step Up Revolution ;94
+1530;Snakes on a Plane ;136
+1531;The Watcher ;45
+1532;The Punisher ;57
+1533;Goal! The Dream Begins ;118
+1534;Safe ;58
+1535;Pushing Tin ;100
+1536;Star Wars: Episode VI - Return of the Jedi ;159
+1537;Doomsday ;140
+1538;The Reader ;101
+1539;Wanderlust ;85
+1540;Elf ;105
+1541;Phenomenon ;22
+1542;Snow Dogs ;108
+1543;Scrooged ;110
+1544;Nacho Libre ;109
+1545;Bridesmaids ;82
+1546;This Is the End ;113
+1547;Stigmata ;8
+1548;Men of Honor ;41
+1549;Takers ;58
+1550;The Big Wedding ;85
+1551;Big Mommas: Like Father, Like Son ;79
+1552;Source Code ;47
+1553;Alive ;42
+1554;The Number 23 ;47
+1555;The Young and Prodigious T.S. Spivet ;134
+1556;1941 ;33
+1557;Dreamer: Inspired by a True Story ;109
+1558;A History of Violence ;64
+1559;Transporter 2 ;58
+1560;The Quick and the Dead ;20
+1561;Laws of Attraction ;82
+1562;Bringing Out the Dead ;25
+1563;Repo Men ;139
+1564;Dragon Wars: D-War ;4
+1565;Bogus ;112
+1566;The Incredible Burt Wonderstone ;85
+1567;Cats Don't Dance ;120
+1568;Cradle Will Rock ;19
+1569;The Good German ;55
+1570;George and the Dragon ;78
+1571;Apocalypse Now ;34
+1572;Going the Distance ;82
+1573;Mr. Holland's Opus ;98
+1574;Criminal ;139
+1575;Out of Africa ;39
+1576;Flight ;25
+1577;Moonraker ;137
+1578;The Grand Budapest Hotel ;76
+1579;Hearts in Atlantis ;52
+1580;Arachnophobia ;6
+1581;Frequency ;139
+1583;Vacation ;148
+1584;Get Shorty ;66
+1585;Chicago ;92
+1586;Big Daddy ;114
+1587;American Pie 2 ;85
+1588;Toy Story ;122
+1589;Speed ;136
+1590;The Vow ;101
+1591;Extraordinary Measures ;19
+1592;Remember the Titans ;117
+1593;The Hunt for Red October ;135
+1594;Lee Daniels' The Butler ;41
+1595;Dodgeball: A True Underdog Story ;116
+1596;The Addams Family ;113
+1597;Ace Ventura: When Nature Calls ;148
+1598;The Princess Diaries ;105
+1599;The First Wives Club ;85
+1600;Se7en ;50
+1601;District 9 ;140
+1602;The SpongeBob SquarePants Movie ;122
+1603;Mystic River ;50
+1604;Million Dollar Baby ;118
+1605;Analyze This ;73
+1606;The Notebook ;101
+1607;27 Dresses ;82
+1608;Hannah Montana: The Movie ;93
+1609;Rugrats in Paris: The Movie ;106
+1610;The Prince of Tides ;101
+1611;Legends of the Fall ;21
+1612;Up in the Air ;101
+1613;About Schmidt ;114
+1614;Warm Bodies ;9
+1615;Looper ;139
+1616;Down to Earth ;113
+1617;Babe ;102
+1618;Hope Springs ;100
+1619;Forgetting Sarah Marshall ;100
+1620;Friday Night Lights             ;118
+1621;Four Brothers ;49
+1622;Baby Mama ;82
+1623;Hope Floats ;101
+1624;Bride Wars ;82
+1625;Without a Paddle ;51
+1626;13 Going on 30 ;83
+1627;Midnight in Paris ;83
+1628;The Nut Job ;132
+1629;Blow ;43
+1630;Message in a Bottle ;101
+1631;Star Trek V: The Final Frontier ;137
+1632;Like Mike ;109
+1633;Naked Gun 33 1/3: The Final Insult ;73
+1634;A View to a Kill ;135
+1635;The Curse of the Were-Rabbit ;129
+1636;P.S. I Love You ;101
+1637;Racing Stripes ;108
+1638;Atonement ;32
+1639;Letters to Juliet ;100
+1640;Black Rain ;58
+1641;The Three Stooges ;85
+1642;Corpse Bride ;119
+1643;Glory Road ;117
+1644;Sicario ;49
+1645;Southpaw ;118
+1646;Drag Me to Hell ;17
+1647;The Age of Adaline ;111
+1648;Secondhand Lions ;102
+1649;Step Up 3D ;94
+1650;Blue Crush ;118
+1651;Stranger Than Fiction ;110
+1652;30 Days of Night ;8
+1653;The Cabin in the Woods ;12
+1654;Meet the Spartans ;85
+1655;Midnight Run ;80
+1656;The Running Man ;139
+1657;Little Shop of Horrors ;92
+1658;Hanna ;28
+1659;The Family             ;52
+1660;Mortal Kombat: Annihilation ;138
+1661;Larry Crowne ;100
+1662;Carrie ;5
+1663;Take the Lead ;98
+1664;Entourage             ;114
+1665;Gridiron Gang ;60
+1666;What's the Worst That Could Happen? ;73
+1667;9 ;149
+1668;Side Effects ;64
+1669;The Prince and Me ;105
+1670;Winnie the Pooh ;121
+1671;Dumb and Dumberer: When Harry Met Lloyd ;85
+1672;Bulworth ;100
+1673;Get on Up ;97
+1674;One True Thing ;19
+1675;Virtuosity ;139
+1676;My Super Ex-Girlfriend ;86
+1677;Deliver Us from Evil ;11
+1678;Sanctum ;150
+1679;Little Black Book ;100
+1680;The Five-Year Engagement ;82
+1681;Mr 3000 ;115
+1682;The Next Three Days ;62
+1683;Ultraviolet ;4
+1684;Assault on Precinct 13 ;57
+1685;The Replacement Killers ;58
+1686;Fled ;151
+1687;Eight Legged Freaks ;1
+1688;Love & Other Drugs ;100
+1689;88 Minutes ;50
+1690;North Country ;19
+1691;The Whole Ten Yards ;66
+1692;Splice ;14
+1693;Howard the Duck ;162
+1694;Pride and Glory ;64
+1695;The Cave ;18
+1696;Alex & Emma ;82
+1697;Wicker Park ;54
+1698;Fright Night ;9
+1699;The New World ;39
+1700;Wing Commander ;155
+1701;In Dreams ;7
+1702;Dragonball: Evolution ;138
+1703;The Last Stand ;58
+1704;Godsend ;24
+1705;Chasing Liberty ;82
+1706;Hoodwinked Too! Hood vs. Evil ;131
+1707;An Unfinished Life ;19
+1708;The Imaginarium of Doctor Parnassus ;56
+1709;Barney's Version ;114
+1710;Trapped             ;64
+1711;Runner Runner ;67
+1712;Antitrust ;57
+1713;Glory ;31
+1714;Once Upon a Time in America ;59
+1715;Dead Man Down ;57
+1716;The Merchant of Venice ;101
+1717;The Good Thief ;61
+1718;Supercross ;163
+1719;Miss Potter ;39
+1720;The Promise ;3
+1721;DOA: Dead or Alive ;164
+1722;The Assassination of Jesse James by the Coward Robert Ford ;43
+1723;1911 ;152
+1724;Little Nicholas ;107
+1725;Wild Card ;57
+1726;Machine Gun Preacher ;44
+1727;Animals United ;131
+1728;The Color of Freedom ;36
+1729;United Passions ;38
+1730;Grace of Monaco ;39
+1731;A Warrior's Tail ;123
+1732;Ripley's Game ;50
+1733;Sausage Party ;123
+1734;Pitch Perfect 2 ;92
+1735;Walk the Line ;39
+1736;12 Monkeys             ;149
+1737;Keeping the Faith ;100
+1738;The Borrowers ;125
+1739;Frost/Nixon ;19
+1740;Confessions of a Dangerous Mind ;63
+1741;Serving Sara ;82
+1742;The Boss ;85
+1743;Cry Freedom ;36
+1744;Mumford ;114
+1745;Seed of Chucky ;6
+1746;The Jacket ;23
+1747;Aladdin ;120
+1748;Straight Outta Compton ;43
+1749;Indiana Jones and the Temple of Doom ;164
+1750;The Rugrats Movie ;121
+1751;Along Came a Spider ;64
+1752;Florence Foster Jenkins ;40
+1753;Once Upon a Time in Mexico ;58
+1754;Die Hard ;144
+1755;Role Models ;85
+1756;The Big Short ;36
+1757;Taking Woodstock ;96
+1758;Miracle ;38
+1759;Dawn of the Dead ;4
+1760;The Wedding Planner ;82
+1761;Harlock: Space Pirate ;90
+1762;The Royal Tenenbaums ;114
+1763;Identity ;47
+1764;Last Vegas ;82
+1765;For Your Eyes Only ;135
+1766;Serendipity ;82
+1767;Timecop ;139
+1768;Zoolander ;85
+1769;Safe Haven ;54
+1770;Hocus Pocus ;112
+1771;No Reservations ;100
+1772;Kick-Ass ;77
+1773;30 Minutes or Less ;79
+1774;Dracula 2000 ;3
+1775;Alexander and the Terrible, Horrible, No Good, Very Bad Day ;107
+1776;Pride & Prejudice ;101
+1777;Blade Runner ;143
+1778;Rob Roy ;41
+1779;3 Days to Kill ;28
+1780;We Own the Night ;64
+1781;Lost Souls ;14
+1782;Winged Migration ;70
+1783;Just My Luck ;83
+1784;Mystery, Alaska ;115
+1785;The Spy Next Door ;128
+1786;A Simple Wish ;112
+1787;Ghosts of Mars ;2
+1788;Our Brand Is Crisis ;114
+1789;Pride and Prejudice and Zombies ;1
+1790;Kundun ;29
+1791;How to Lose Friends & Alienate People ;100
+1792;Kick-Ass 2 ;79
+1793;Captain Alatriste: The Spanish Musketeer ;31
+1794;Brick Mansions ;57
+1795;Octopussy ;135
+1796;Knocked Up ;82
+1797;My Sister's Keeper ;19
+1798;Welcome Home, Roscoe Jenkins ;100
+1799;A Passage to India ;152
+1800;Notes on a Scandal ;62
+1801;Rendition ;25
+1802;Limitless             ;139
+1803;Star Trek VI: The Undiscovered Country ;137
+1804;Divine Secrets of the Ya-Ya Sisterhood ;19
+1806;Kiss the Girls ;50
+1807;The Blues Brothers ;76
+1808;The Sisterhood of the Traveling Pants 2 ;102
+1809;Joyful Noise ;92
+1810;About a Boy ;100
+1811;Lake Placid ;1
+1812;Lucky Number Slevin ;50
+1813;The Right Stuff ;152
+1814;Anonymous ;37
+1815;The NeverEnding Story ;103
+1816;Dark City ;56
+1817;The Duchess ;39
+1818;The Honeymooners             ;107
+1819;Return to Oz ;124
+1820;The Newton Boys ;60
+1821;Case 39 ;11
+1822;Suspect Zero ;50
+1823;Martian Child ;102
+1824;Spy Kids: All the Time in the World in 4D ;127
+1825;Money Monster ;64
+1826;Formula 51 ;80
+1827;Flawless ;74
+1828;Mindhunters ;45
+1829;What Just Happened ;114
+1830;The Statement ;25
+1831;The Magic Flute ;94
+1832;Paul Blart: Mall Cop ;79
+1833;Freaky Friday ;120
+1834;The 40-Year-Old Virgin ;82
+1835;Shakespeare in Love ;100
+1836;A Walk Among the Tombstones ;50
+1837;Kindergarten Cop ;79
+1838;Pineapple Express ;79
+1839;Ever After: A Cinderella Story ;100
+1840;Open Range ;21
+1841;Flatliners ;24
+1842;It's Always Sunny in Philadelphia             ;85
+1843;A Bridge Too Far ;31
+1844;Red Eye ;47
+1845;Final Destination 2 ;17
+1846;O Brother, Where Art Thou? ;76
+1847;Legion ;3
+1848;Pain & Gain ;74
+1849;In Good Company ;100
+1850;Clockstoppers ;145
+1851;Silverado ;60
+1852;Brothers ;25
+1853;Agent Cody Banks 2: Destination London ;162
+1854;New Year's Eve ;82
+1855;Original Sin ;54
+1856;The Raven ;45
+1857;Welcome to Mooseport ;82
+1858;Highlander: The Final Dimension ;161
+1859;Blood and Wine ;64
+1860;Snow White: A Tale of Terror ;5
+1861;The Curse of the Jade Scorpion ;51
+1862;Accidental Love ;82
+1863;Flipper ;134
+1864;Self/less ;48
+1865;The Constant Gardener ;54
+1866;The Passion of the Christ ;19
+1867;Mrs. Doubtfire ;102
+1868;Rain Man ;19
+1869;Gran Torino ;19
+1870;W. ;36
+1871;Taken ;144
+1872;The Best of Me ;101
+1873;The Bodyguard ;163
+1874;Schindler's List ;36
+1875;The Help ;19
+1876;The Fifth Estate ;42
+1877;Scooby-Doo 2: Monsters Unleashed ;124
+1878;Viy ;56
+1879;Freddy vs. Jason ;4
+1880;The Face of an Angel ;19
+1881;Jimmy Neutron: Boy Genius ;127
+1882;Cloverfield ;2
+1883;Teenage Mutant Ninja Turtles II: The Secret of the Ooze ;127
+1884;The Untouchables ;64
+1885;No Country for Old Men ;64
+1886;Ride Along ;61
+1887;Bridget Jones's Diary ;100
+1888;Chocolat ;101
+1889;Legally Blonde 2: Red, White & Blonde ;85
+1890;Parental Guidance ;107
+1891;No Strings Attached ;82
+1892;Tombstone ;30
+1893;Romeo Must Die ;58
+1894;The Omen ;10
+1895;Final Destination 3 ;8
+1896;The Lucky One ;101
+1897;Bridge to Terabithia ;103
+1898;Finding Neverland ;117
+1899;A Madea Christmas ;114
+1900;The Grey ;27
+1901;Hide and Seek ;13
+1902;Anchorman: The Legend of Ron Burgundy ;85
+1903;Goodfellas ;43
+1904;Agent Cody Banks ;61
+1905;Nanny McPhee ;112
+1906;Scarface ;59
+1907;Nothing to Lose ;76
+1908;The Last Emperor ;36
+1909;Contraband ;57
+1910;Money Talks ;80
+1911;There Will Be Blood ;19
+1912;The Wild Thornberrys Movie ;122
+1913;Rugrats Go Wild ;120
+1914;Undercover Brother ;77
+1915;The Sisterhood of the Traveling Pants ;102
+1916;Kiss of the Dragon ;57
+1917;The House Bunny ;82
+1918;Beauty Shop ;85
+1919;Million Dollar Arm ;117
+1920;The Giver ;22
+1921;What a Girl Wants ;102
+1922;Jeepers Creepers II ;8
+1923;Good Luck Chuck ;82
+1924;Cradle 2 the Grave ;57
+1925;The Hours ;101
+1926;She's the Man ;82
+1927;Mr. Bean's Holiday ;107
+1928;Anacondas: The Hunt for the Blood Orchid ;4
+1929;Blood Ties ;64
+1930;August Rush ;98
+1931;Elizabeth ;36
+1932;Bride of Chucky ;9
+1933;Tora! Tora! Tora! ;30
+1934;Spice World ;91
+1935;The Sitter ;85
+1936;Dance Flick ;76
+1937;The Shawshank Redemption ;59
+1938;Crocodile Dundee in Los Angeles ;76
+1939;Kingpin ;116
+1940;The Gambler ;64
+1941;August: Osage County ;19
+1942;Ice Princess ;109
+1943;A Lot Like Love ;100
+1944;Eddie the Eagle ;117
+1945;He Got Game ;118
+1946;Don Juan DeMarco ;100
+1947;Shaun the Sheep             ;131
+1948;Dear John ;32
+1949;The Losers ;49
+1950;Don't Be Afraid of the Dark ;7
+1951;War ;58
+1952;Punch-Drunk Love ;75
+1953;EuroTrip ;85
+1954;Half Past Dead ;58
+1955;Unaccompanied Minors ;106
+1956;Bright Lights, Big City ;19
+1957;The Adventures of Pinocchio ;119
+1958;The Greatest Game Ever Played ;38
+1959;The Box ;56
+1960;The Ruins ;8
+1961;The Next Best Thing ;100
+1962;My Soul to Take ;11
+1963;The Girl Next Door ;100
+1964;Maximum Risk ;61
+1965;Stealing Harvard ;73
+1966;Legend ;37
+1967;Hot Rod ;85
+1968;Shark Night 3D ;17
+1969;Angela's Ashes ;19
+1970;Draft Day ;118
+1971;Lifeforce ;4
+1972;The Powerpuff Girls             ;129
+1973;The Conspirator ;38
+1974;Lords of Dogtown ;117
+1975;The 33 ;36
+1976;Big Trouble in Little China ;78
+1977;A Perfect Plan ;82
+1978;Warrior ;118
+1979;Michael Collins ;26
+1980;Gettysburg ;31
+1981;Stop-Loss ;34
+1982;Abandon ;54
+1983;Brokedown Palace ;55
+1984;The Possession ;17
+1985;Mrs. Winterbourne ;100
+1986;Straw Dogs ;28
+1987;The Hoax ;114
+1988;Stone Cold ;57
+1989;The Road ;150
+1990;Sheena ;146
+1991;Underclassman ;81
+1992;Say It Isn't So ;82
+1993;The World's Fastest Indian ;117
+1995;Tank Girl ;157
+1996;King's Ransom ;73
+1997;Blindness ;23
+1998;BloodRayne ;3
+1999;Carnage ;114
+2000;Where the Truth Lies ;50
+2001;Cirque du Soleil: Worlds Away ;84
+2002;Without Limits ;117
+2003;Me and Orson Welles ;19
+2004;The Best Offer ;53
+2005;Bad Lieutenant: Port of Call New Orleans ;59
+2006;A Turtle's Tale: Sammy's Adventures ;132
+2007;Little White Lies ;114
+2008;Love Ranch ;115
+2009;The True Story of Puss'N Boots ;132
+2010;Space Dogs ;132
+2011;The Counselor ;64
+2012;Ironclad ;153
+2013;Waterloo ;30
+2014;Kung Fu Killer ;163
+2015;Red Sky ;144
+2016;Dangerous Liaisons ;101
+2017;On the Road ;150
+2018;Star Trek IV: The Voyage Home ;89
+2019;Rocky Balboa ;118
+2021;Scream 2 ;10
+2022;Jane Got a Gun ;21
+2023;Think Like a Man Too ;82
+2024;The Whole Nine Yards ;73
+2025;Footloose ;94
+2026;Old School ;85
+2027;The Fisher King ;110
+2028;I Still Know What You Did Last Summer ;10
+2029;Return to Me ;100
+2030;Zack and Miri Make a Porno ;82
+2031;Nurse Betty ;74
+2032;The Men Who Stare at Goats ;33
+2033;Double Take ;80
+2034;Girl, Interrupted ;41
+2035;Win a Date with Tad Hamilton! ;82
+2036;Muppets from Space ;125
+2037;The Wiz ;119
+2038;Ready to Rumble ;116
+2039;Play It to the Bone ;115
+2040;I Don't Know How She Does It ;82
+2041;Piranha 3D ;9
+2042;Beyond the Sea ;97
+2043;Meet the Deedles ;107
+2044;The Princess and the Cobbler ;123
+2045;The Bridge of San Luis Rey ;101
+2046;Faster ;57
+2047;Howl's Moving Castle ;123
+2048;Zombieland ;18
+2050;The Waterboy ;116
+2051;Star Wars: Episode V - The Empire Strikes Back ;159
+2052;Bad Boys ;81
+2053;The Naked Gun 2½: The Smell of Fear ;73
+2054;Final Destination ;17
+2055;The Ides of March ;19
+2056;Pitch Black ;2
+2057;Someone Like You... ;82
+2058;Her ;22
+2060;Joy Ride ;47
+2061;The Adventurer: The Curse of the Midas Box ;124
+2062;Anywhere But Here ;114
+2064;The Crew ;73
+2065;Haywire ;144
+2066;Jaws: The Revenge ;18
+2067;Marvin's Room ;19
+2068;The Longshots ;117
+2069;The End of the Affair ;101
+2070;Harley Davidson and the Marlboro Man ;60
+2071;In the Valley of Elah ;50
+2072;Coco Before Chanel ;41
+2073;Forsaken ;21
+2074;Chéri ;100
+2075;Rogue             ;57
+2076;Vanity Fair ;19
+2077;Bodyguards and Assassins ;152
+2078;1408 ;5
+2079;Spaceballs ;89
+2080;The Water Diviner ;34
+2081;Ghost ;7
+2082;There's Something About Mary ;82
+2083;The Santa Clause ;110
+2084;The Rookie ;109
+2085;The Game Plan ;109
+2086;The Bridges of Madison County ;101
+2087;The Animal ;88
+2088;Gandhi ;36
+2089;The Hundred-Foot Journey ;114
+2090;The Net ;49
+2091;I Am Sam ;19
+2092;Son of God ;36
+2093;Underworld ;3
+2094;Derailed ;25
+2095;The Informant! ;75
+2096;Shadowlands ;39
+2097;Deuce Bigalow: European Gigolo ;85
+2098;Delivery Man ;114
+2100;Our Kind of Traitor ;142
+2101;Saving Silverman ;72
+2102;Diary of a Wimpy Kid: Dog Days ;107
+2103;Summer of Sam ;62
+2104;Jay and Silent Bob Strike Back ;85
+2106;The Glass House ;50
+2107;Hail, Caesar! ;51
+2108;Josie and the Pussycats ;92
+2109;Homefront ;57
+2110;The Little Vampire ;125
+2111;I Heart Huckabees ;85
+2112;RoboCop 3 ;139
+2113;Megiddo: The Omega Code 2 ;138
+2114;Darling Lili ;95
+2115;Dudley Do-Right ;105
+2116;The Transporter Refueled ;58
+2117;The Libertine ;101
+2118;Black Book ;26
+2119;Joyeux Noel ;95
+2120;Hit and Run ;162
+2121;Mad Money ;66
+2122;Before I Go to Sleep ;55
+2123;Sorcerer ;150
+2124;Stone ;25
+2125;Molière ;148
+2126;Out of the Furnace ;64
+2127;Michael Clayton ;50
+2128;My Fellow Americans ;148
+2129;Arlington Road ;64
+2130;Underdogs ;108
+2131;To Rome with Love ;82
+2132;Firefox ;135
+2133;South Park: Bigger Longer & Uncut ;120
+2134;Death at a Funeral ;85
+2135;Teenage Mutant Ninja Turtles III ;125
+2136;Hardball ;118
+2137;Silver Linings Playbook ;100
+2138;Freedom Writers ;43
+2139;For Colored Girls ;19
+2140;The Transporter ;58
+2141;Never Back Down ;163
+2142;The Rage: Carrie 2 ;15
+2143;The Bachelor             ;84
+2144;Away We Go ;100
+2145;Swing Vote ;114
+2146;Moonlight Mile ;101
+2147;Tinker Tailor Soldier Spy ;55
+2148;Molly ;100
+2149;The Beaver ;19
+2150;The Best Little Whorehouse in Texas ;92
+2151;eXistenZ ;15
+2152;Raiders of the Lost Ark ;164
+2153;Home Alone 2: Lost in New York ;134
+2154;Close Encounters of the Third Kind ;22
+2155;Pulse ;24
+2156;Beverly Hills Cop II ;80
+2157;Bringing Down the House ;85
+2158;The Silence of the Lambs ;65
+2159;Wayne's World ;92
+2160;Jackass 3D ;69
+2161;Jaws 2 ;18
+2162;Beverly Hills Chihuahua ;106
+2163;The Conjuring ;11
+2164;Are We There Yet? ;106
+2165;Tammy ;85
+2167;School of Rock ;92
+2168;Mortal Kombat ;138
+2170;White Chicks ;73
+2171;The Descendants ;114
+2172;Holes ;134
+2173;The Last Song ;93
+2174;12 Years a Slave ;36
+2175;Drumline ;95
+2176;Why Did I Get Married Too? ;100
+2177;Edward Scissorhands ;84
+2178;Me Before You ;101
+2179;Madea's Witness Protection ;74
+2180;The French Connection ;57
+2181;Bad Moms ;85
+2182;Date Movie ;82
+2183;Return to Never Land ;123
+2184;Selma ;36
+2185;The Jungle Book 2 ;119
+2186;Boogeyman ;13
+2187;Premonition ;55
+2188;The Tigger Movie ;121
+2189;Orphan ;11
+2190;Max ;134
+2191;Meet the Browns             ;85
+2192;Epic Movie ;148
+2194;Spotlight ;43
+2195;Lakeview Terrace ;64
+2196;The Grudge 2 ;17
+2197;How Stella Got Her Groove Back ;100
+2198;Bill & Ted's Bogus Journey ;89
+2199;Man of the Year ;75
+2200;The Black Hole ;156
+2201;The American ;64
+2202;Selena ;97
+2203;Vampires Suck ;85
+2204;Babel ;19
+2205;This Is Where I Leave You ;114
+2206;Doubt ;52
+2207;Team America: World Police ;77
+2208;Texas Chainsaw 3D ;17
+2209;Copycat ;50
+2210;Scary Movie 5 ;85
+2211;Paint Your Wagon ;91
+2212;Milk ;36
+2213;Risen ;52
+2214;Ghost Ship ;8
+2215;A Very Harold & Kumar 3D Christmas ;148
+2216;Wild Things ;50
+2217;The Stepfather ;67
+2218;The Debt ;25
+2219;High Fidelity ;95
+2220;One Missed Call ;10
+2221;Eye for an Eye ;64
+2222;The Bank Job ;62
+2223;Eternal Sunshine of the Spotless Mind ;22
+2224;You Again ;105
+2225;Street Kings ;57
+2226;The World's End ;157
+2227;Nancy Drew ;61
+2228;Daybreakers ;4
+2229;She's Out of My League ;82
+2230;Monte Carlo ;106
+2231;Stay Alive ;17
+2232;Quigley Down Under ;154
+2233;Alpha and Omega ;106
+2234;The Covenant ;3
+2235;Stick It ;115
+2236;Shorts ;112
+2237;To Die For ;74
+2238;Nerve ;48
+2239;Appaloosa ;60
+2240;Vampires ;4
+2241;Yu-Gi-Oh! Duel Monsters             ;126
+2242;Psycho ;11
+2243;My Best Friend's Girl ;82
+2244;Endless Love ;101
+2245;Georgia Rule ;114
+2246;Under the Rainbow ;85
+2247;Ladyhawke ;146
+2248;Simon Birch ;102
+2249;Reign Over Me ;19
+2250;Into the Wild ;41
+2251;School for Scoundrels ;85
+2252;Silent Hill: Revelation 3D ;18
+2253;From Dusk Till Dawn ;65
+2254;Pooh's Heffalump Movie ;131
+2255;Home for the Holidays ;100
+2256;Kung Fu Hustle ;78
+2257;Fired Up             ;85
+2258;The Country Bears ;91
+2259;The Kite Runner ;19
+2260;21 Grams ;19
+2261;Paparazzi ;57
+2263;A Guy Thing ;82
+2264;Loser ;82
+2265;Capitalism: A Love Story ;70
+2266;The Greatest Story Ever Told ;36
+2267;Secret in Their Eyes ;50
+2268;Disaster Movie ;85
+2269;Armored ;58
+2270;The Man Who Knew Too Little ;80
+2271;What's Your Number? ;82
+2272;Lockout ;137
+2273;Envy ;85
+2274;Crank: High Voltage ;139
+2275;Bullets Over Broadway ;73
+2276;One Night with the King ;36
+2277;The Quiet American ;32
+2278;The Weather Man ;114
+2279;Undisputed ;60
+2280;Ghost Town ;110
+2281;12 Rounds ;58
+2282;Let Me In ;10
+2283;3 Ninjas Kick Back ;128
+2284;Be Kind Rewind ;85
+2285;Mrs Henderson Presents ;95
+2286;Triple 9 ;57
+2287;Deconstructing Harry ;85
+2288;Three to Tango ;82
+2289;Burnt ;114
+2290;We're No Angels ;73
+2291;Everyone Says I Love You ;91
+2293;Death Sentence ;58
+2294;Everybody's Fine ;150
+2295;Superbabies: Baby Geniuses 2 ;90
+2296;The Man ;79
+2297;Code Name: The Cleaner ;79
+2298;Connie and Carla ;92
+2299;Sweet Charity ;95
+2300;Inherent Vice ;53
+2301;Doogal ;122
+2302;Battle of the Year ;98
+2303;Perception             ;50
+2304;An American Carol ;113
+2305;Machete Kills ;80
+2306;Willard ;24
+2307;Strange Wilderness ;148
+2308;Topsy-Turvy ;36
+2309;Little Boy ;34
+2310;A Dangerous Method ;42
+2311;A Scanner Darkly ;23
+2312;Chasing Mavericks ;117
+2313;Alone in the Dark ;2
+2314;Bandslam ;93
+2315;Birth ;54
+2316;A Most Violent Year ;57
+2317;Passchendaele ;32
+2318;Flash of Genius ;41
+2319;I'm Not There. ;97
+2320;The Cold Light of Day ;144
+2321;The Brothers Bloom ;147
+2322;Synecdoche, New York ;100
+2323;Princess Mononoke ;123
+2324;Bon voyage ;32
+2325;Can't Stop the Music ;92
+2326;The Proposition ;60
+2327;Courage ;117
+2328;Marci X ;92
+2329;Equilibrium ;141
+2330;The Children of Huang Shi ;34
+2331;The Yards ;62
+2332;The Oogieloves in the Big Balloon Adventure ;119
+2333;By the Sea ;101
+2334;Steamboy ;126
+2335;The Game of Their Lives ;38
+2336;All Good Things ;53
+2337;Rapa Nui ;153
+2338;CJ7 ;90
+2339;Les couloirs du temps: Les visiteurs II ;88
+2340;Dylan Dog: Dead of Night ;12
+2341;People I Know ;53
+2342;The Doombolt Chase             ;104
+2343;The Tempest ;110
+2344;Regression ;50
+2345;The Touch ;84
+2346;Three Kingdoms: Resurrection of the Dragon ;30
+2347;Shattered ;64
+2348;Zambezia ;132
+2349;Ramanujan ;36
+2350;Dwegons and Leprechauns ;130
+2351;Hands of Stone ;44
+2352;Survivor ;58
+2353;The Frozen Ground ;50
+2354;The Painted Veil ;101
+2355;The Baader Meinhof Complex ;44
+2356;Dances with Wolves ;151
+2357;Bad Teacher ;85
+2358;Sea of Love ;50
+2359;A Cinderella Story ;105
+2360;Scream ;10
+2361;Thir13en Ghosts ;8
+2362;The Shining ;14
+2363;Back to the Future ;89
+2364;House on Haunted Hill ;11
+2365;I Can Do Bad All by Myself ;114
+2366;Fight Valley ;163
+2367;The Switch ;100
+2368;Just Married ;82
+2369;The Devil's Double ;42
+2370;Gone, Baby, Gone             ;100
+2371;Thomas and the Magic Railroad ;133
+2372;The Crazies ;17
+2373;Spirited Away ;123
+2374;Firestorm ;58
+2375;The Bounty ;153
+2376;The Book Thief ;34
+2377;Sex Drive ;147
+2378;Leap Year ;82
+2379;The Fall of the Roman Empire ;31
+2380;Take Me Home Tonight ;100
+2381;Won't Back Down ;19
+2382;The Nutcracker ;119
+2383;Kansas City ;99
+2384;Indignation ;19
+2385;The Amityville Horror ;13
+2386;Adaptation. ;114
+2387;Land of the Dead ;8
+2388;Out of Inferno ;165
+2389;Fear and Loathing in Las Vegas ;147
+2390;The Invention of Lying ;83
+2391;Neighbors ;85
+2392;The Mask ;78
+2393;Big ;110
+2394;Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ;85
+2395;Legally Blonde ;82
+2396;Star Trek III: The Search for Spock ;155
+2397;The Exorcism of Emily Rose ;14
+2398;Deuce Bigalow: Male Gigolo ;82
+2399;Left Behind ;56
+2400;The Family Stone ;100
+2401;Barbershop 2: Back in Business ;114
+2402;Bad Santa ;74
+2403;Austin Powers: International Man of Mystery ;73
+2404;My Big Fat Greek Wedding 2 ;105
+2405;Diary of a Wimpy Kid: Rodrick Rules ;107
+2406;Predator ;2
+2407;Amadeus ;36
+2408;Prom Night ;10
+2409;Mean Girls ;85
+2410;Under the Tuscan Sun ;100
+2411;Gosford Park ;52
+2412;The O.C.             ;100
+2413;Peggy Sue Got Married ;110
+2414;Birdman or (The Unexpected Virtue of Ignorance) ;100
+2415;Blue Jasmine ;19
+2416;United 93 ;37
+2417;Honey ;94
+2419;Spy Hard ;77
+2420;The Fog ;5
+2421;Soul Surfer ;117
+2422;Catch-22 ;33
+2423;Observe and Report ;74
+2424;Conan the Destroyer ;160
+2425;Raging Bull ;117
+2426;Love Happens ;101
+2427;Young Sherlock Holmes ;56
+2428;Fame ;95
+2429;127 Hours ;42
+2430;Small Time Crooks ;73
+2431;Center Stage ;94
+2432;Love the Coopers ;85
+2433;Catch That Kid ;73
+2434;Life as a House ;19
+2435;Steve Jobs ;41
+2436;I Love You, Beth Cooper ;82
+2437;Youth in Revolt ;100
+2438;The Legend of the Lone Ranger ;164
+2439;The Tailor of Panama ;25
+2440;Blow Out ;47
+2441;Getaway ;58
+2442;The Ice Storm ;19
+2443;And So It Goes ;100
+2444;Troop Beverly Hills ;148
+2445;Being Julia ;100
+2446;9½ Weeks ;101
+2447;Dragonslayer ;160
+2448;The Last Station ;39
+2449;Ed Wood ;40
+2450;Labor Day ;19
+2451;Mongol: The Rise of Genghis Khan ;29
+2452;RocknRolla ;58
+2453;Megaforce ;156
+2454;Hamlet ;19
+2455;Mao's Last Dancer ;39
+2456;Midnight Special ;149
+2457;Anything Else ;82
+2458;The Railway Man ;29
+2459;Unforgettable             ;52
+2460;The White Ribbon ;52
+2461;Restoration ;8
+2462;The Wraith ;4
+2463;The Salton Sea ;50
+2464;Metallica Through the Never ;91
+2465;The Informers ;64
+2466;Carlos             ;42
+2467;I Come with the Rain ;142
+2468;One Man's Hero ;30
+2469;Day of the Dead ;8
+2470;I Am Wrath ;57
+2471;Renaissance ;140
+2473;Red Sonja ;160
+2474;Red Lights ;13
+2475;Superbad ;85
+2476;Madea Goes to Jail ;74
+2477;Wolves ;1
+2478;Step Up 2: The Streets ;94
+2479;Hoodwinked! ;107
+2480;Hotel Rwanda ;31
+2481;Hitman ;57
+2482;Black Nativity ;93
+2483;The Prince ;144
+2484;City of Ghosts ;64
+2485;The Others ;7
+2486;Aliens ;155
+2487;My Fair Lady ;93
+2488;I Know What You Did Last Summer ;11
+2489;Let's Be Cops ;85
+2490;Sideways ;147
+2491;Beerfest ;85
+2492;Halloween ;17
+2494;Good Boy! ;88
+2495;The Best Man Holiday ;114
+2496;Smokin' Aces ;57
+2497;Saw 3D: The Final Chapter ;10
+2498;40 Days and 40 Nights ;82
+2500;A Night at the Roxbury ;91
+2501;Beastly ;111
+2502;The Hills Have Eyes ;8
+2503;Dickie Roberts: Former Child Star ;85
+2504;McFarland, USA ;117
+2505;Lottery Ticket ;85
+2506;ATL ;92
+2507;Pitch Perfect ;91
+2508;Summer Catch ;115
+2509;A Simple Plan ;64
+2510;They ;11
+2511;Larry the Cable Guy: Health Inspector ;82
+2512;The Adventures of Elmo in Grouchland ;120
+2513;Brooklyn's Finest ;64
+2514;55 Days at Peking ;152
+2515;Evil Dead ;8
+2516;My Life in Ruins ;82
+2517;American Dreamz ;92
+2518;Superman IV: The Quest for Peace ;126
+2519;How She Move ;19
+2520;Running Scared ;57
+2521;Bobby Jones: Stroke of Genius ;118
+2522;Shanghai Surprise ;151
+2523;The Illusionist ;54
+2524;Roar ;18
+2525;Veronica Guerin ;42
+2526;Escobar: Paradise Lost ;62
+2527;Southland Tales ;145
+2528;Dragon Hunters ;123
+2529;Damnation Alley ;90
+2530;The Apparition ;17
+2531;My Girl ;102
+2532;Fur: An Imaginary Portrait of Diane Arbus ;39
+2534;Wall Street ;59
+2535;Sense and Sensibility ;101
+2536;Becoming Jane ;39
+2537;Sydney White ;82
+2538;House of Sand and Fog ;19
+2539;Dead Poets Society ;114
+2540;Dumb & Dumber ;85
+2541;When Harry Met Sally... ;100
+2542;The Verdict ;19
+2543;Road Trip ;85
+2544;Varsity Blues ;115
+2545;The Artist ;100
+2546;The Unborn ;56
+2547;Moonrise Kingdom ;147
+2548;The Texas Chainsaw Massacre: The Beginning ;8
+2549;The Young Messiah ;19
+2550;The Master of Disguise ;107
+2551;Pan's Labyrinth ;35
+2552;The Messengers             ;56
+2553;See Spot Run ;107
+2554;Baby Boy ;62
+2555;The Roommate ;14
+2556;Joe Dirt ;147
+2557;Double Impact ;165
+2558;Hot Fuzz ;51
+2559;The Women ;114
+2560;Vicky Cristina Barcelona ;101
+2561;Arn: The Knight Templar ;153
+2563;Boys and Girls ;100
+2564;White Oleander ;19
+2565;Jennifer's Body ;113
+2566;Drowning Mona ;51
+2567;Radio Days ;85
+2569;Remember Me ;101
+2570;How to Deal ;100
+2571;My Stepmother Is an Alien ;86
+2572;Philadelphia ;19
+2573;The Thirteenth Floor ;47
+2574;The Cookout ;85
+2575;Meteor ;141
+2576;Duets ;96
+2577;Hollywood Ending ;82
+2578;Detroit Rock City ;92
+2579;Highlander ;160
+2580;Things We Lost in the Fire ;19
+2581;Steel ;165
+2582;The Immigrant ;101
+2583;The White Countess ;32
+2584;Trance ;50
+2585;Soul Plane ;85
+2586;Welcome to the Sticks ;82
+2587;Good ;32
+2588;Enter the Void ;111
+2589;Vamps ;9
+2590;Hachi: A Dog's Tale ;104
+2591;Zulu ;64
+2592;The Homesman ;21
+2593;Juwanna Mann ;115
+2594;Lilyhammer             ;74
+2595;Ararat ;34
+2596;Madison ;118
+2597;Slow Burn ;55
+2598;Wasabi ;81
+2599;Slither ;87
+2600;Beverly Hills Cop ;79
+2601;Home Alone ;107
+2602;3 Men and a Baby ;102
+2603;Tootsie ;100
+2604;Top Gun ;163
+2605;Crouching Tiger, Hidden Dragon ;163
+2606;American Beauty ;19
+2607;The King's Speech ;39
+2608;Twins ;73
+2609;Scream: The TV Series             ;65
+2610;The Yellow Handkerchief ;101
+2611;The Color Purple ;19
+2612;Tidal Wave ;145
+2614;The Imitation Game ;26
+2615;Private Benjamin ;33
+2616;Coal Miner's Daughter ;97
+2617;Diary of a Wimpy Kid ;107
+2618;Mama ;5
+2620;National Lampoon's Vacation ;148
+2621;Bad Grandpa ;85
+2622;The Queen ;41
+2623;Beetlejuice ;113
+2624;Why Did I Get Married? ;114
+2625;Little Women ;102
+2626;The Woman in Black ;7
+2627;When a Stranger Calls ;17
+2628;Big Fat Liar ;134
+2629;The Deer Hunter ;34
+2630;Wag the Dog ;114
+2631;The Lizzie McGuire Movie ;91
+2632;Snitch ;28
+2633;Krampus ;113
+2634;The Faculty ;16
+2635;What's Love Got to Do with It ;97
+2636;Cop Land ;64
+2637;Not Another Teen Movie ;85
+2638;End of Watch ;64
+2640;The Skulls ;57
+2641;The Theory of Everything ;39
+2642;Malibu's Most Wanted ;73
+2643;Where the Heart Is ;100
+2644;Lawrence of Arabia ;29
+2645;Halloween II ;8
+2646;Wild ;41
+2647;The Last House on the Left ;65
+2648;The Wedding Date ;82
+2649;Halloween: Resurrection ;6
+2651;The Princess Bride ;106
+2652;The Great Debaters ;41
+2653;Drive ;59
+2654;Confessions of a Teenage Drama Queen ;91
+2655;The Object of My Affection ;100
+2656;28 Weeks Later ;14
+2657;When the Game Stands Tall ;109
+2658;Because of Winn-Dixie ;102
+2659;Love & Basketball ;118
+2660;Grosse Pointe Blank ;61
+2661;All About Steve ;82
+2662;Book of Shadows: Blair Witch 2 ;56
+2663;The Craft ;7
+2664;Match Point ;54
+2665;Ramona and Beezus ;125
+2666;The Remains of the Day ;101
+2667;Boogie Nights ;19
+2668;Nowhere to Run ;61
+2669;Flicka ;134
+2670;The Hills Have Eyes II ;8
+2671;Urban Legends: Final Cut ;11
+2672;Tuck Everlasting ;103
+2673;The Marine ;28
+2674;Keanu ;77
+2675;Country Strong ;98
+2676;Disturbing Behavior ;16
+2677;The Place Beyond the Pines ;64
+2678;The November Man ;58
+2679;Eye of the Beholder ;55
+2680;The Hurt Locker ;31
+2681;Firestarter ;4
+2682;Killing Them Softly ;67
+2683;A Most Wanted Man ;64
+2684;Freddy Got Fingered ;85
+2685;The Pirates Who Don't Do Anything: A VeggieTales Movie ;132
+2686;U2 3D ;68
+2687;Highlander: Endgame ;159
+2688;Idlewild ;99
+2689;One Day ;101
+2690;Whip It ;118
+2691;Knockaround Guys ;64
+2692;Confidence ;67
+2693;The Muse ;85
+2694;De-Lovely ;97
+2695;New York Stories ;100
+2696;Barney's Great Adventure ;134
+2697;The Man with the Iron Fists ;165
+2698;Home Fries ;100
+2699;Here on Earth ;101
+2700;Brazil ;22
+2701;Raise Your Voice ;91
+2702;The Dead Zone             ;22
+2703;The Big Lebowski ;73
+2704;Black Snake Moan ;98
+2705;Dark Blue ;62
+2706;A Mighty Heart ;26
+2707;Whatever It Takes ;100
+2708;Boat Trip ;85
+2709;The Importance of Being Earnest ;100
+2710;The Love Letter ;84
+2711;Hoot ;134
+2712;In Bruges ;74
+2713;Peeples ;82
+2714;The Rocker ;92
+2715;Post Grad ;82
+2716;Promised Land ;19
+2717;Whatever Works ;82
+2718;The In Crowd ;55
+2719;Three Burials ;151
+2720;Jakob the Liar ;34
+2721;Kiss Kiss Bang Bang ;51
+2722;Idle Hands ;6
+2723;Mulholland Drive ;55
+2724;Blood and Chocolate ;5
+2725;You Will Meet a Tall Dark Stranger ;100
+2726;Never Let Me Go ;22
+2727;The Company             ;37
+2728;Transsiberian ;50
+2729;The Clan of the Cave Bear ;146
+2730;Crazy in Alabama ;74
+2731;Funny Games ;65
+2732;Listening ;24
+2733;Felicia's Journey ;25
+2734;Metropolis ;22
+2735;District B13 ;58
+2736;Things to Do in Denver When You're Dead ;59
+2737;The Assassin ;163
+2738;Buffalo Soldiers ;75
+2739;The Return ;55
+2740;Ong-bak 2 ;165
+2741;Centurion ;31
+2742;Silent Trigger ;28
+2743;The Midnight Meat Train ;10
+2744;Winnie Mandela ;36
+2745;The Son of No One ;64
+2746;All the Queen's Men ;33
+2747;The Good Night ;111
+2748;Bathory: Countess of Blood ;36
+2749;Khumba ;132
+2750;Automata ;140
+2751;Dungeons & Dragons: Wrath of the Dragon God ;160
+2752;Chiamatemi Francesco - Il Papa della gente ;41
+2753;Shinjuku Incident ;57
+2754;Pandaemonium ;41
+2755;Groundhog Day ;83
+2756;Magic Mike XXL ;96
+2757;Romeo + Juliet ;101
+2758;Sarah's Key ;34
+2759;Freedom ;93
+2760;Unforgiven ;21
+2761;Manderlay ;19
+2762;Slumdog Millionaire ;101
+2763;Fatal Attraction ;54
+2764;Pretty Woman ;82
+2765;Towering Inferno             ;85
+2766;Crocodile Dundee II ;76
+2767;Broken Horses ;49
+2768;Born on the Fourth of July ;29
+2769;Cool Runnings ;108
+2770;My Bloody Valentine ;17
+2773;Stomp the Yard ;94
+2774;The Spy Who Loved Me ;137
+2775;Ghost Hunters             ;70
+2776;Urban Legend ;11
+2778;Good Deeds ;100
+2779;White Fang ;150
+2780;Superstar ;82
+2781;The Iron Lady ;36
+2782;Jonah: A VeggieTales Movie ;121
+2783;Poetic Justice ;101
+2784;All About the Benjamins ;80
+2785;Vampire in Brooklyn ;9
+2786;Exorcist II: The Heretic ;8
+2787;An American Haunting ;11
+2788;My Boss's Daughter ;82
+2789;A Perfect Getaway ;48
+2790;Our Family Wedding ;82
+2791;Dead Man on Campus ;85
+2792;Tea with Mussolini ;33
+2793;Thinner ;5
+2794;New York, New York ;94
+2795;Crooklyn ;114
+2796;I Think I Love My Wife ;100
+2797;Jason X ;4
+2799;Bobby ;38
+2800;Head Over Heels ;51
+2801;Fun Size ;148
+2802;The Diving Bell and the Butterfly ;41
+2803;Little Children ;101
+2804;Gossip ;55
+2805;A Walk on the Moon ;19
+2806;Catch a Fire ;36
+2807;Soul Survivors ;13
+2808;Jefferson in Paris ;39
+2809;Easy Virtue ;82
+2810;Caravans ;152
+2811;Mr. Turner ;36
+2812;Wild Grass ;101
+2813;Amen. ;29
+2814;Reign of Assassins ;165
+2815;The Lucky Ones ;33
+2816;Margaret ;19
+2817;Stan Helsing ;9
+2818;Flipped ;100
+2819;Brokeback Mountain ;101
+2821;Clueless ;82
+2822;Far from Heaven ;101
+2823;Hot Tub Time Machine 2 ;88
+2824;Dekalog             ;19
+2825;Quills ;41
+2826;Seven Psychopaths ;73
+2827;The Caveman's Valentine ;99
+2828;The Border             ;57
+2829;Downfall ;29
+2830;The Sea Inside ;39
+2831;Under the Skin ;24
+2832;Good Morning, Vietnam ;40
+2833;The Last Godfather ;85
+2834;Justin Bieber: Never Say Never ;68
+2835;Black Swan ;25
+2837;The Godfather: Part II ;59
+2838;Save the Last Dance ;94
+2839;A Nightmare on Elm Street 4: The Dream Master ;7
+2840;Miracles from Heaven ;19
+2841;Dude, Where's My Car? ;51
+2842;Young Guns ;60
+2843;St. Vincent ;114
+2844;About Last Night ;82
+2845;10 Things I Hate About You ;100
+2846;The New Guy ;85
+2847;Loaded Weapon 1 ;79
+2848;The Shallows ;14
+2849;The Butterfly Effect ;143
+2850;Snow Day ;134
+2851;This Christmas ;100
+2852;Baby Geniuses ;107
+2853;The Big Hit ;80
+2854;Harriet the Spy ;102
+2855;Child's Play 2 ;5
+2856;No Good Deed ;67
+2857;The Mist ;8
+2858;Ex Machina ;23
+2859;Being John Malkovich ;110
+2860;Two Can Play That Game ;82
+2861;Earth to Echo ;90
+2862;Crazy/Beautiful ;101
+2863;Letters from Iwo Jima ;31
+2864;The Astronaut Farmer ;149
+2865;Woo ;82
+2866;Room ;19
+2867;Dirty Work ;85
+2868;Serial Mom ;66
+2869;Dick ;85
+2870;Del 1 - Män som hatar kvinnor             ;46
+2871;Light It Up ;25
+2872;54 ;98
+2873;Bubble Boy ;86
+2874;Birthday Girl ;66
+2875;21 & Over ;85
+2876;Paris, je t'aime ;100
+2877;Resurrecting the Champ ;118
+2878;Admission ;100
+2879;The Widow of Saint-Pierre ;101
+2880;Chloe ;54
+2881;Faithful ;74
+2883;Find Me Guilty ;40
+2884;The Perks of Being a Wallflower ;101
+2885;Excessive Force ;165
+2886;Infamous ;43
+2887;The Claim ;21
+2888;The Vatican Tapes ;17
+2889;Attack the Block ;145
+2890;In the Land of Blood and Honey ;32
+2891;The Call ;67
+2892;Operation Chromite ;30
+2893;The Crocodile Hunter: Collision Course ;128
+2894;I Love You Phillip Morris ;63
+2895;Quest for Fire ;152
+2896;Antwone Fisher ;41
+2897;The Emperor's Club ;19
+2898;True Romance ;61
+2899;Womb ;22
+2900;Glengarry Glen Ross ;53
+2901;The Killer Inside Me ;64
+2902;Cat People ;7
+2903;Sorority Row ;10
+2904;The Prisoner of Zenda ;154
+2905;Lars and the Real Girl ;100
+2906;The Boy in the Striped Pajamas ;34
+2907;Dancer in the Dark ;99
+2908;Oscar and Lucinda ;101
+2909;The Funeral ;59
+2910;Solitary Man ;100
+2911;Machete ;58
+2912;Casino Jack ;40
+2913;The Land Before Time ;132
+2914;Tae Guk Gi: The Brotherhood of War ;35
+2915;The Perfect Game ;109
+2916;The Exorcist ;8
+2917;Jaws ;150
+2918;American Pie ;85
+2919;Ernest & Celestine ;107
+2920;The Golden Child ;78
+2921;Think Like a Man ;82
+2922;Barbershop ;114
+2923;Star Trek II: The Wrath of Khan ;155
+2924;Ace Ventura: Pet Detective ;85
+2925;WarGames ;143
+2926;Witness ;62
+2927;Act of Valor ;26
+2928;Step Up ;99
+2929;Beavis and Butt-Head Do America ;132
+2930;Jackie Brown ;67
+2931;Harold & Kumar Escape from Guantanamo Bay ;148
+2932;Chronicle ;24
+2933;Yentl ;94
+2934;Time Bandits ;89
+2935;Crossroads ;114
+2936;Project X ;73
+2937;Patton ;29
+2938;One Hour Photo ;25
+2939;Quarantine ;15
+2940;The Eye ;10
+2941;Johnson Family Vacation ;85
+2942;How High ;113
+2943;The Muppet Christmas Carol ;120
+2945;Frida ;39
+2946;Katy Perry: Part of Me ;68
+2947;The Fault in Our Stars ;101
+2948;Rounders ;59
+2949;Top Five ;82
+2950;Prophecy ;2
+2951;Stir of Echoes ;11
+2952;Spartacus: War of the Damned             ;152
+2953;Philomena ;41
+2954;The Upside of Anger ;114
+2955;The Boys from Brazil ;25
+2956;Aquamarine ;105
+2957;Paper Towns ;54
+2958;My Baby's Daddy ;85
+2959;Nebraska ;147
+2960;Tales from the Crypt: Demon Knight ;3
+2961;Max Keeble's Big Move ;107
+2962;Young Adult ;114
+2963;Crank ;58
+2964;How to Be a Player ;85
+2965;Living Out Loud ;100
+2966;Just Wright ;116
+2967;Rachel Getting Married ;101
+2968;The Postman Always Rings Twice ;62
+2969;Girl with a Pearl Earring ;39
+2970;Das Boot ;26
+2972;Sorority Boys ;85
+2973;About Time ;111
+2974;House of Flying Daggers ;153
+2975;Arbitrage ;25
+2976;Project Almanac ;143
+2977;Cadillac Records ;97
+2978;Screwed ;73
+2979;Fortress ;139
+2980;For Your Consideration ;85
+2981;Celebrity ;114
+2982;Running with Scissors ;114
+2983;From Justin to Kelly ;91
+2984;Girl 6 ;114
+2985;In the Cut ;47
+2986;Two Lovers ;101
+2987;Last Orders ;19
+2988;The Host ;87
+2989;The Pursuit of D.B. Cooper ;136
+2990;Ravenous ;7
+2991;Charlie Bartlett ;100
+2992;The Great Beauty ;19
+2993;The Dangerous Lives of Altar Boys ;114
+2994;Stoker ;25
+2995;2046 ;22
+2996;Married Life ;63
+2997;Duma ;134
+2998;Ondine ;54
+2999;Brother ;64
+3000;Welcome to Collinwood ;73
+3001;Critical Care ;114
+3002;The Life Before Her Eyes ;55
+3003;Darling Companion ;100
+3004;Trade ;64
+3005;Fateless ;32
+3006;Breakfast of Champions ;85
+3007;A Woman, a Gun and a Noodle Shop ;114
+3008;Cypher ;47
+3009;City of Life and Death ;31
+3011;Legend of Kung Fu Rabbit ;128
+3012;Space Battleship Yamato ;149
+3013;5 Days of War ;35
+3014;Triangle ;56
+3015;10 Days in a Madhouse ;19
+3016;Heaven Is for Real ;41
+3017;Snatch ;73
+3018;Dancin' It's On ;91
+3019;Pet Sematary ;5
+3020;Madadayo ;19
+3021;The Cry of the Owl ;25
+3022;A Tale of Three Cities ;19
+3023;Gremlins ;113
+3024;Star Wars: Episode IV - A New Hope ;159
+3025;Dirty Grandpa ;85
+3026;Doctor Zhivago ;32
+3027;Trash ;136
+3028;High School Musical 3: Senior Year ;93
+3029;The Fighter ;117
+3030;Jackass Number Two ;69
+3031;My Cousin Vinny ;73
+3032;If I Stay ;111
+3033;Drive Hard ;79
+3034;Major League ;116
+3035;St. Trinian's ;85
+3036;Phone Booth ;67
+3037;A Walk to Remember ;101
+3038;Dead Man Walking ;59
+3039;Cruel Intentions ;101
+3040;Saw VI ;10
+3041;History of the World: Part I ;85
+3042;The Secret Life of Bees ;19
+3043;Corky Romano ;73
+3044;Raising Cain ;64
+3045;F.I.S.T. ;19
+3046;Invaders from Mars ;2
+3047;Brooklyn ;101
+3048;Barry Lyndon ;31
+3049;Out Cold ;116
+3050;The Ladies Man ;85
+3051;Quartet ;114
+3052;Tomcats ;85
+3053;Frailty ;64
+3054;Woman in Gold ;36
+3055;Kinsey ;41
+3056;Army of Darkness ;113
+3057;Slackers ;82
+3058;What's Eating Gilbert Grape ;101
+3059;The Visual Bible: The Gospel of John ;36
+3060;Vera Drake ;59
+3061;The Guru ;91
+3062;The Perez Family ;100
+3063;Inside Llewyn Davis ;98
+3064;O ;54
+3065;Return to the Blue Lagoon ;154
+3066;The Molly Maguires ;38
+3067;Romance & Cigarettes ;91
+3068;Copying Beethoven ;97
+3070;Brighton Rock ;64
+3071;Saw V ;10
+3072;Machine Gun McCain ;64
+3073;LOL ;100
+3074;Jindabyne ;50
+3075;Kabhi Alvida Naa Kehna ;19
+3076;An Ideal Husband ;82
+3077;The Last Days on Mars ;15
+3078;Darkness ;8
+3079;2001: A Space Odyssey ;48
+3080;E.T. the Extra-Terrestrial ;90
+3081;In the Land of Women ;100
+3082;The Blue Butterfly ;150
+3083;There Goes My Baby ;114
+3084;Lovesick             ;85
+3085;Housefull ;85
+3086;September Dawn ;21
+3087;For Greater Glory: The True Story of Cristiada ;31
+3088;La Famille Bélier ;96
+3089;Good Will Hunting ;19
+3090;Misconduct ;25
+3091;Saw III ;10
+3092;Stripes ;33
+3093;Bring It On ;116
+3094;The Purge: Election Year ;4
+3095;She's All That ;82
+3097;Saw IV ;10
+3098;White Noise ;13
+3099;Madea's Family Reunion ;100
+3100;The Color of Money ;118
+3101;The Longest Day ;30
+3102;The Mighty Ducks ;109
+3103;The Grudge ;11
+3104;Happy Gilmore ;116
+3105;Jeepers Creepers ;10
+3106;Bill & Ted's Excellent Adventure ;89
+3107;Oliver! ;93
+3108;The Best Exotic Marigold Hotel ;114
+3109;Recess: School's Out ;129
+3110;Mad Max Beyond Thunderdome ;137
+3111;Commando ;135
+3112;The Boy ;11
+3113;Devil ;11
+3114;Friday After Next ;114
+3115;Insidious: Chapter 3 ;7
+3116;The Last Dragon ;81
+3118;The Lawnmower Man ;2
+3119;Nick and Norah's Infinite Playlist ;95
+3120;Dogma ;146
+3121;The Banger Sisters ;114
+3122;Twilight Zone: The Movie ;2
+3123;Road House ;144
+3124;A Low Down Dirty Shame ;79
+3125;Swimfan ;25
+3126;Employee of the Month ;82
+3127;Can't Hardly Wait ;82
+3128;The Outsiders ;59
+3129;Pete's Dragon ;124
+3130;The Dead Zone ;15
+3131;Sinister 2 ;11
+3132;Sparkle ;98
+3133;Valentine ;11
+3134;The Fourth Kind ;47
+3135;A Prairie Home Companion ;96
+3136;Sugar Hill ;25
+3137;Invasion U.S.A. ;144
+3138;Roll Bounce ;95
+3139;Rushmore ;114
+3140;Skyline ;140
+3141;The Second Best Exotic Marigold Hotel ;114
+3142;Kit Kittredge: An American Girl ;104
+3143;The Perfect Man ;105
+3144;Mo' Better Blues ;94
+3145;Kung Pow: Enter the Fist ;77
+3146;Tremors ;87
+3147;Wrong Turn ;17
+3148;The Long Riders ;20
+3149;The Corruptor ;49
+3150;Mud ;19
+3151;Reno 911!: Miami ;73
+3152;One Direction: This Is Us ;68
+3153;The Goods: Live Hard, Sell Hard ;85
+3154;Hey Arnold! The Movie ;132
+3155;My Week with Marilyn ;41
+3156;The Matador ;75
+3157;Love Jones ;101
+3158;The Gift ;47
+3159;End of the Spear ;150
+3160;Get Over It ;82
+3161;Office Space ;85
+3162;Drop Dead Gorgeous ;162
+3163;Big Eyes ;63
+3164;Very Bad Things ;66
+3165;Sleepover ;82
+3166;Body Double ;47
+3167;MacGruber ;162
+3168;Dirty Pretty Things ;64
+3169;Movie 43 ;85
+3171;Over Her Dead Body ;83
+3172;Seeking a Friend for the End of the World ;86
+3173;Cedar Rapids ;85
+3174;Bones             ;53
+3175;American History X ;59
+3176;The Collection ;4
+3177;Teacher's Pet ;120
+3178;The Red Violin ;54
+3179;The Straight Story ;41
+3180;Deuces Wild ;60
+3181;Bad Words ;114
+3182;Run, Fatboy, Run ;116
+3183;Heartbeeps ;88
+3184;Black or White ;19
+3185;On the Line ;105
+3186;Rescue Dawn ;154
+3187;Danny Collins ;96
+3188;Jeff, Who Lives at Home ;114
+3189;I Am Love ;101
+3190;Atlas Shrugged II: The Strike ;22
+3191;Romeo Is Bleeding ;57
+3192;The Limey ;50
+3193;Crash ;64
+3194;The House of Mirth ;101
+3195;Malone ;28
+3196;Peaceful Warrior ;118
+3197;Bucky Larson: Born to Be a Star ;85
+3198;Bamboozled ;96
+3199;The Forest ;11
+3200;Sphinx ;48
+3201;While We're Young ;114
+3202;A Better Life ;101
+3203;Spider ;55
+3204;Gun Shy ;72
+3205;Nicholas Nickleby ;101
+3206;The Iceman ;43
+3208;Krrish ;161
+3209;Cecil B. DeMented ;66
+3210;Killer Joe ;62
+3211;The Joneses ;114
+3212;Owning Mahowny ;64
+3213;The Brothers Solomon ;85
+3214;My Blueberry Nights ;101
+3215;Illuminata ;19
+3216;Swept Away ;82
+3217;War, Inc. ;145
+3218;Shaolin Soccer ;77
+3219;The Brown Bunny ;19
+3220;The Swindle ;66
+3221;Rosewater ;41
+3222;The Chambermaid on the Titanic ;101
+3223;Coriolanus ;26
+3224;Imaginary Heroes ;114
+3225;High Heels and Low Lifes ;81
+3226;World's Greatest Dad ;114
+3227;Severance ;6
+3228;Edmond ;25
+3229;Welcome to the Rileys ;19
+3230;Police Academy: Mission to Moscow ;73
+3231;Blood Done Sign My Name ;19
+3232;Cinco de Mayo, La Batalla ;31
+3233;Elsa & Fred ;100
+3234;An Alan Smithee Film: Burn Hollywood Burn ;85
+3235;The Open Road ;114
+3236;The Good Guy ;82
+3237;Motherhood ;114
+3238;Free Style ;19
+3239;Strangerland ;55
+3240;The Janky Promoters ;92
+3241;Blonde Ambition ;82
+3242;The Oxford Murders ;45
+3243;The Reef ;17
+3244;Eulogy ;114
+3245;White Noise 2: The Light ;7
+3246;You Got Served: Beat the World ;98
+3247;Fifty Dead Men Walking ;25
+3248;Jungle Shuffle ;132
+3249;Adam Resurrected ;34
+3250;Of Horses and Men ;100
+3251;It's a Wonderful Afterlife ;9
+3252;The Devil's Tomb ;2
+3253;Partition ;101
+3254;Good Intentions ;85
+3255;The Good, the Bad, the Weird ;148
+3256;Nurse 3D ;17
+3257;Gunless ;21
+3258;Adventureland ;100
+3259;The Lost City ;101
+3260;Next Friday ;85
+3261;American Heist ;57
+3262;You Only Live Twice ;135
+3263;Plastic ;81
+3264;Amour ;101
+3265;Poltergeist III ;17
+3266;Re-Kill ;1
+3267;It's a Mad, Mad, Mad, Mad World ;76
+3268;Volver ;53
+3269;Heavy Metal ;2
+3270;Gentlemen Broncos ;89
+3271;Richard III ;34
+3272;Into the Grizzly Maze ;4
+3273;Kites ;54
+3274;Melancholia ;22
+3275;Red Dog ;40
+3276;Jab Tak Hai Jaan ;101
+3277;Alien ;2
+3278;The Texas Chain Saw Massacre ;17
+3279;The Runaways ;97
+3280;Fiddler on the Roof ;93
+3281;Thunderball ;135
+3282;Detention ;87
+3283;Loose Cannons ;100
+3284;Set It Off ;61
+3285;The Best Man ;114
+3286;Child's Play ;5
+3287;Sicko ;71
+3288;The Purge: Anarchy ;4
+3289;Down to You ;100
+3290;Harold & Kumar Go to White Castle ;148
+3291;The Contender ;25
+3292;Boiler Room ;64
+3293;Trading Places ;85
+3294;Black Christmas ;8
+3295;Breakin' All the Rules ;82
+3296;Henry V ;30
+3297;The Savages ;114
+3298;Chasing Papi ;82
+3299;The Way of the Gun ;57
+3300;Igby Goes Down ;114
+3301;PCU ;85
+3302;The Ultimate Gift ;102
+3303;The Bold and the Beautiful             ;101
+3304;The Ice Pirates ;162
+3305;Gracie ;117
+3306;Trust the Man ;100
+3307;Hamlet 2 ;92
+3308;Velvet Goldmine ;98
+3309;The Wailing ;12
+3310;Glee: The 3D Concert Movie ;68
+3311;The Legend of Suriyothai ;152
+3312;Two Evil Eyes ;8
+3313;Barbecue ;85
+3314;All or Nothing ;19
+3315;Princess Kaiulani ;19
+3316;Opal Dream ;104
+3318;Flame and Citron ;31
+3319;Undiscovered ;91
+3320;Red Riding: In the Year of Our Lord 1974 ;50
+3321;The Girl on the Train ;19
+3322;Veronika Decides to Die ;101
+3323;Crocodile Dundee ;148
+3324;Ultramarines: A Warhammer 40,000 Movie ;12
+3325;The I Inside ;47
+3326;Beneath Hill 60 ;31
+3327;Polisse ;59
+3328;Awake ;45
+3329;Star Wars: The Clone Wars             ;149
+3330;Skin Trade ;58
+3331;The Lost Boys ;113
+3332;Crazy Heart ;94
+3333;The Rose ;94
+3334;Baggage Claim ;85
+3335;Barbarella ;89
+3336;Shipwrecked ;134
+3337;Election ;114
+3338;The Namesake ;19
+3339;The DUFF ;85
+3340;Glitter ;94
+3341;The Haunting in Connecticut 2: Ghosts of Georgia ;13
+3342;Silmido ;163
+3343;Bright Star ;39
+3344;My Name Is Khan ;150
+3346;All Is Lost ;158
+3347;Limbo ;150
+3348;Namastey London ;100
+3349;The Wind That Shakes the Barley ;34
+3350;Yeh Jawaani Hai Deewani ;95
+3352;Quo Vadis ;39
+3353;Repo! The Genetic Opera ;92
+3354;Valley of the Wolves: Iraq ;164
+3355;Pulp Fiction ;59
+3356;The Muppet Movie ;121
+3357;Nightcrawler ;64
+3358;Club Dread ;6
+3359;The Sound of Music ;93
+3360;Splash ;83
+3361;Little Miss Sunshine ;114
+3362;Stand by Me ;150
+3363;28 Days Later... ;24
+3364;You Got Served ;98
+3365;Escape from Alcatraz ;43
+3366;Brown Sugar ;95
+3367;A Thin Line Between Love and Hate ;75
+3368;50/50 ;100
+3369;Shutter ;11
+3371;That Awkward Moment ;82
+3372;Modern Problems ;88
+3373;Kicks ;146
+3374;Much Ado About Nothing ;100
+3375;On Her Majesty's Secret Service ;135
+3376;The Player             ;57
+3377;New Nightmare ;12
+3378;Drive Me Crazy ;100
+3379;Akeelah and the Bee ;19
+3380;Half Baked ;73
+3381;New in Town ;82
+3383;American Psycho ;59
+3384;The Good Girl ;101
+3385;Bon Cop Bad Cop ;80
+3386;The Boondock Saints II: All Saints Day ;58
+3387;The City of Your Final Destination ;101
+3388;Enough Said ;100
+3389;Easy A ;82
+3390;The Inkwell ;100
+3391;Shadow of the Vampire ;14
+3392;Prom ;114
+3393;The Pallbearer ;82
+3394;Held Up ;85
+3395;Woman on Top ;83
+3396;Howards End ;101
+3397;Preacher             ;56
+3398;Anomalisa ;130
+3399;Another Year ;114
+3400;8 Women ;92
+3401;Showdown in Little Tokyo ;80
+3402;Clay Pigeons ;73
+3403;It's Kind of a Funny Story ;100
+3404;Made in Dagenham ;36
+3405;When Did You Last See Your Father? ;41
+3406;Prefontaine ;118
+3407;The Wicked Lady ;150
+3408;The Secret of Kells ;123
+3409;Begin Again ;98
+3410;Down in the Valley ;54
+3411;Brooklyn Rules ;59
+3412;Restless ;101
+3413;The Singing Detective ;92
+3414;The Land Girls ;32
+3415;Fido ;87
+3416;The Wendell Baker Story ;100
+3417;Wild Target ;79
+3418;Pathology ;65
+3419;Wuthering Heights             ;101
+3420;10th & Wolf ;64
+3421;Dear Wendy ;75
+3422;Aloft ;19
+3423;Akira ;140
+3424;The Death and Life of Bobby Z ;58
+3425;The Rocket: The Legend of Rocket Richard ;117
+3426;Swelter ;57
+3427;My Lucky Star ;162
+3428;Imagine Me & You ;100
+3429;Mr. Church ;19
+3430;Swimming Pool ;50
+3431;Green Street 3: Never Back Down ;163
+3432;The Blood of Heroes ;156
+3433;Code of Honor ;165
+3434;Driving Miss Daisy ;102
+3435;Soul Food ;114
+3436;Rumble in the Bronx ;77
+3437;Far from Men ;21
+3438;Thank You for Smoking ;114
+3439;Hostel: Part II ;8
+3440;An Education ;19
+3441;Shopgirl ;101
+3442;The Hotel New Hampshire ;100
+3443;Narc ;50
+3444;Men with Brooms ;115
+3445;Witless Protection ;73
+3446;The Work and the Glory ;101
+3447;Extract ;72
+3448;Masked and Anonymous ;96
+3449;Alias Betty ;75
+3450;Code 46 ;54
+3451;Outside Bet ;85
+3453;Albert Nobbs ;19
+3454;Black November ;57
+3455;Ta Ra Rum Pum ;105
+3456;Persepolis ;29
+3457;The Hole ;7
+3458;The Wave ;25
+3459;The Neon Demon ;17
+3460;Harry Brown ;57
+3462;The Omega Code ;138
+3463;Juno ;100
+3464;Pound of Flesh ;144
+3465;Diamonds Are Forever ;135
+3466;The Godfather ;59
+3467;Flashdance ;94
+3468;500 Days of Summer ;100
+3469;The Piano ;94
+3470;Magic Mike ;114
+3471;Darkness Falls ;11
+3472;Live and Let Die ;135
+3473;My Dog Skip ;109
+3474;Definitely, Maybe ;100
+3475;Jumping the Broom ;114
+3477;Good Night, and Good Luck. ;36
+3478;Capote ;43
+3479;Desperado ;58
+3481;Fargo             ;64
+3482;Logan's Run ;155
+3483;The Man with the Golden Gun ;135
+3484;Action Jackson ;80
+3485;The Descent ;18
+3486;Michael Jordan to the Max ;71
+3487;Devil's Due ;10
+3488;Flirting with Disaster ;85
+3489;The Devil's Rejects ;65
+3490;Buffy the Vampire Slayer             ;163
+3491;Dope ;74
+3492;In Too Deep ;64
+3494;House of 1000 Corpses ;8
+3495;Alien Zone ;8
+3496;A Serious Man ;114
+3497;Get Low ;52
+3498;Warlock ;3
+3499;Beyond the Lights ;98
+3500;A Single Man ;101
+3501;The Last Temptation of Christ ;19
+3502;Outside Providence ;100
+3503;Bride & Prejudice ;95
+3504;Rabbit-Proof Fence ;152
+3505;Who's Your Caddy? ;116
+3506;Split Second ;65
+3507;Nikita             ;57
+3508;The Other Side of Heaven ;41
+3509;Dark Angel             ;141
+3510;Veer-Zaara ;94
+3511;Redbelt ;118
+3512;Cyrus ;100
+3513;A Dog of Flanders ;104
+3514;Auto Focus ;43
+3515;Factory Girl ;41
+3516;We Need to Talk About Kevin ;25
+3517;The Christmas Candle ;104
+3518;The Mighty Macs ;118
+3519;Losin' It ;102
+3520;Mother and Child ;101
+3521;March or Die ;154
+3522;Les visiteurs ;88
+3523;Somewhere ;114
+3524;I Hope They Serve Beer in Hell ;85
+3525;Chairman of the Board ;85
+3526;Hesher ;19
+3527;Dom Hemingway ;74
+3528;Gerry ;52
+3529;The Heart of Me ;101
+3530;Freeheld ;39
+3531;The Extra Man ;85
+3532;Hard to Be a God ;22
+3533;Ca$h ;66
+3534;Wah-Wah ;19
+3535;The Boondock Saints ;58
+3536;Z Storm ;165
+3537;Twixt ;51
+3538;Snow Queen ;132
+3539;Alpha and Omega 4: The Legend of the Saw Toothed Cave ;128
+3540;Pale Rider ;20
+3541;Stargate: The Ark of Truth ;149
+3542;Dazed and Confused ;85
+3543;High School Musical 2 ;93
+3544;Two Lovers and a Bear ;101
+3545;Criminal Activities ;64
+3546;Aimee & Jaguar ;29
+3547;The Chumscrubber ;114
+3548;Shade ;67
+3549;House at the End of the Street ;14
+3550;Incendies ;32
+3551;Remember Me, My Love ;100
+3552;Perrier's Bounty ;75
+3553;Elite Squad ;57
+3554;Annabelle ;10
+3555;Bran Nue Dae ;96
+3556;Boyz n the Hood ;59
+3557;La Bamba ;97
+3558;The Four Seasons ;114
+3559;Dressed to Kill ;47
+3560;The Adventures of Huck Finn ;133
+3561;Go ;73
+3562;Friends with Money ;100
+3563;The Andromeda Strain ;143
+3564;Bats ;15
+3565;Nowhere in Africa ;41
+3566;Shame ;19
+3567;Layer Cake ;64
+3568;The Work and the Glory II: American Zion ;21
+3569;The East ;25
+3570;A Home at the End of the World ;101
+3571;Aberdeen ;19
+3572;The Messenger ;32
+3573;Tracker ;151
+3574;Control ;97
+3575;The Terminator ;156
+3576;Good Bye Lenin! ;101
+3577;The Damned United ;117
+3578;The Return of the Living Dead ;87
+3579;Gomorrah             ;64
+3580;Mallrats ;82
+3581;Grease ;91
+3582;Platoon ;34
+3583;Fahrenheit 9/11 ;71
+3584;Butch Cassidy and the Sundance Kid ;43
+3585;Mary Poppins ;120
+3586;Ordinary People ;19
+3588;West Side Story ;99
+3589;Caddyshack ;116
+3590;The Brothers ;114
+3591;The Wood ;100
+3592;The Usual Suspects ;50
+3593;A Nightmare on Elm Street 5: The Dream Child ;14
+3594;Van Wilder: Party Liaison ;82
+3595;The Wrestler ;118
+3596;Duel in the Sun ;21
+3597;Best in Show ;85
+3598;Escape from New York ;156
+3599;School Daze ;96
+3600;Daddy Day Camp ;107
+3601;Mr. Nice Guy ;79
+3602;A Mighty Wind ;92
+3603;Mystic Pizza ;100
+3604;War & Peace             ;32
+3605;Sliding Doors ;110
+3606;Tales from the Hood ;6
+3607;The Last King of Scotland ;37
+3608;Halloween 5 ;17
+3609;Bernie ;74
+3610;Dolphins and Whales 3D: Tribes of the Ocean ;146
+3611;Pollock ;41
+3612;200 Cigarettes ;100
+3613;The Words ;54
+3614;Casa de mi Padre ;148
+3615;City Island ;114
+3616;The Guard ;66
+3617;College ;85
+3618;The Virgin Suicides ;101
+3619;Little Voice ;95
+3620;Miss March ;82
+3621;Wish I Was Here ;114
+3622;Simply Irresistible ;110
+3623;Veronica Mars             ;53
+3624;Hedwig and the Angry Inch ;96
+3625;Only the Strong ;163
+3626;Goddess of Love ;13
+3627;Shattered Glass ;38
+3628;Novocaine ;75
+3629;The Business of Strangers ;25
+3630;The Wild Bunch ;164
+3631;The Wackness ;100
+3632;The Great Train Robbery ;136
+3633;Morvern Callar ;19
+3634;Beastmaster 2: Through the Portal of Time ;159
+3635;The 5th Quarter ;117
+3636;The Flower of Evil ;19
+3637;The Greatest ;101
+3638;Snow Flower and the Secret Fan ;38
+3639;Come Early Morning ;101
+3640;Lucky Break ;72
+3641;Julia ;19
+3642;Surfer, Dude ;85
+3643;Lake of Fire ;70
+3644;11:14 ;74
+3645;Men of War ;28
+3646;Don McKay ;55
+3647;Deadfall ;64
+3648;A Shine of Rainbows ;104
+3649;The Hit List ;144
+3650;Emma             ;100
+3651;Videodrome ;16
+3652;L'auberge espagnole ;114
+3653;Song One ;98
+3655;Winter in Wartime ;31
+3656;Freaky Deaky ;66
+3657;The Train ;26
+3658;Trade of Innocents ;25
+3659;The Protector ;57
+3660;Stiff Upper Lips ;85
+3661;The Inbetweeners             ;82
+3662;Bend It Like Beckham ;115
+3663;Sunshine State ;101
+3664;Crossover ;163
+3665;Khiladi 786 ;77
+3666;[Rec] 2 ;8
+3667;Standing Ovation ;91
+3668;The Sting ;74
+3669;Chariots of Fire ;117
+3670;Diary of a Mad Black Woman ;100
+3671;Shine ;39
+3672;Don Jon ;100
+3673;High Plains Drifter ;20
+3674;Ghost World ;114
+3675;Iris ;39
+3676;Galaxina ;88
+3677;The Chorus ;98
+3678;Mambo Italiano ;114
+3679;Wonderland ;50
+3680;Do the Right Thing ;19
+3681;Harvard Man ;75
+3682;Le Havre ;114
+3683;Irreversible ;50
+3684;R100 ;114
+3685;Rang De Basanti ;38
+3686;Animals ;19
+3687;Salvation Boulevard ;145
+3688;The Ten ;82
+3689;A Room for Romeo Brass ;114
+3690;Headhunters ;64
+3691;Grabbers ;87
+3692;Saint Ralph ;115
+3693;Miss Julie ;101
+3694;Somewhere in Time ;111
+3695;Dum Maaro Dum ;57
+3696;Insidious: Chapter 2 ;7
+3697;Saw II ;10
+3698;10 Cloverfield Lane ;16
+3699;Jackass: The Movie ;69
+3700;Lights Out ;8
+3701;Paranormal Activity 3 ;8
+3702;Ouija ;5
+3703;A Nightmare on Elm Street 3: Dream Warriors ;3
+3705;Instructions Not Included ;114
+3706;Paranormal Activity 4 ;8
+3707;The Robe ;38
+3708;The Return of the Pink Panther ;51
+3709;Freddy's Dead: The Final Nightmare ;6
+3710;Monster ;42
+3711;20,000 Leagues Under the Sea ;125
+3712;Paranormal Activity: The Marked Ones ;7
+3713;The Elephant Man ;41
+3714;Dallas Buyers Club ;41
+3715;The Lazarus Effect ;15
+3716;Memento ;47
+3717;Oculus ;10
+3718;Clerks II ;85
+3719;Billy Elliot ;98
+3720;The Way Way Back ;114
+3721;House Party 2 ;95
+3722;The Man from Snowy River ;154
+3723;Doug's 1st Movie ;131
+3724;The Apostle ;19
+3725;Mommie Dearest ;41
+3726;Our Idiot Brother ;114
+3727;Race ;117
+3728;The Players Club ;114
+3730;As Above, So Below ;11
+3731;Addicted ;25
+3732;Eve's Bayou ;19
+3733;Still Alice ;19
+3734;The Egyptian ;38
+3735;Nighthawks ;58
+3736;Friday the 13th Part VIII: Jason Takes Manhattan ;18
+3737;My Big Fat Greek Wedding ;105
+3738;Spring Breakers ;59
+3739;Halloween: The Curse of Michael Myers ;17
+3740;Y Tu Mamá También ;147
+3741;Shaun of the Dead ;9
+3742;The Haunting of Molly Hartley ;14
+3743;Lone Star ;52
+3744;Halloween 4: The Return of Michael Myers ;17
+3745;April Fool's Day ;10
+3746;Diner ;114
+3747;Lone Wolf McQuade ;60
+3748;Apollo 18 ;16
+3749;Sunshine Cleaning ;114
+3750;No Escape ;144
+3751;The Beastmaster ;160
+3752;Solomon and Sheba ;32
+3753;Fifty Shades of Black ;85
+3754;Not Easily Broken ;101
+3755;A Farewell to Arms ;32
+3756;The Perfect Match ;82
+3757;Digimon: The Movie ;126
+3758;Saved! ;114
+3759;The Barbarian Invasions ;53
+3760;Robin and Marian ;154
+3761;The Forsaken ;17
+3762;Force 10 from Navarone ;35
+3763;UHF ;114
+3764;Grandma's Boy ;85
+3765;Slums of Beverly Hills ;114
+3766;Once Upon a Time in the West ;20
+3767;Made ;75
+3768;Moon ;22
+3769;Keeping Up with the Steins ;85
+3770;Sea Rex 3D: Journey to a Prehistoric World ;70
+3771;The Sweet Hereafter ;19
+3772;Of Gods and Men ;19
+3773;Bottle Shock ;114
+3774;Jekyll and Hyde... Together Again ;89
+3775;Heavenly Creatures ;63
+3776;90 Minutes in Heaven ;19
+3777;Everything Must Go ;114
+3778;Zero Effect ;53
+3779;The Machinist ;25
+3780;Light Sleeper ;59
+3781;Kill the Messenger ;42
+3782;Rabbit Hole ;19
+3783;Party Monster ;42
+3784;Green Room ;65
+3785;The Oh in Ohio ;100
+3786;Atlas Shrugged: Who Is John Galt? ;22
+3787;Bottle Rocket ;74
+3788;Albino Alligator ;64
+3789;Gandhi, My Father ;36
+3790;Standard Operating Procedure ;70
+3791;Out of the Blue ;19
+3792;Tucker and Dale vs Evil ;9
+3793;Lovely, Still ;101
+3794;Tycoon ;154
+3795;Desert Blue ;19
+3796;Decoys ;87
+3797;The Visit ;17
+3798;Redacted ;26
+3799;Fascination ;47
+3800;Saving Grace             ;111
+3801;Area 51 ;15
+3802;Sleep Tight ;14
+3803;The Cottage ;65
+3804;Dead Like Me: Life After Death ;110
+3805;Farce of the Penguins ;130
+3806;Flying By ;93
+3807;Psych             ;51
+3808;Rudderless ;96
+3809;Henry & Me ;130
+3810;Christmas Eve ;85
+3811;We Have Your Husband ;64
+3812;Dying of the Light ;25
+3813;Born of War ;26
+3814;Capricorn One ;140
+3815;Should've Been Romeo ;114
+3816;Running Forever ;104
+3817;Yoga Hosers ;6
+3818;Navy Seals vs. Zombies ;1
+3819;I Served the King of England ;33
+3820;Soul Kitchen ;114
+3821;Sling Blade ;19
+3822;The Awakening ;17
+3823;Hostel ;8
+3824;Tristram Shandy: A Cock and Bull Story ;114
+3825;Take Shelter ;25
+3826;Lady in White ;12
+3827;Driving Lessons ;114
+3828;Let's Kill Ward's Wife ;73
+3829;The Texas Chainsaw Massacre 2 ;9
+3830;Pat Garrett & Billy the Kid ;21
+3831;Only God Forgives ;59
+3832;Camping sauvage ;19
+3833;Without Men ;85
+3834;Barfi ;82
+3835;Dear Frankie ;101
+3836;All Hat ;20
+3837;The Names of Love ;100
+3838;Treading Water ;114
+3839;Savage Grace ;19
+3840;Out of the Blue ;59
+3841;Police Academy ;85
+3842;The Blue Lagoon ;154
+3843;Four Weddings and a Funeral ;100
+3844;Fast Times at Ridgemont High ;114
+3845;Moby Dick ;150
+3846;25th Hour ;19
+3847;Secrets and Lies             ;59
+3848;Bound ;62
+3849;Requiem for a Dream ;19
+3850;State Fair ;91
+3851;Tango ;98
+3852;Salvador ;31
+3853;Moms' Night Out ;85
+3854;Donnie Darko ;24
+3855;Saving Private Perez ;148
+3856;Character ;53
+3857;Spun ;74
+3858;Life During Wartime ;114
+3859;Lady Vengeance ;59
+3860;Mozart's Sister ;39
+3861;Mean Machine ;115
+3862;Exiled ;58
+3863;Blackthorn ;164
+3864;Lilya 4-Ever ;59
+3865;After.Life ;13
+3866;Fugly ;25
+3867;One Flew Over the Cuckoo's Nest ;19
+3868;R.L. Stine's Monsterville: The Cabinet of Souls ;85
+3869;Silent Movie ;82
+3870;Airlift ;30
+3871;Anne of Green Gables             ;104
+3872;Falcon Rising ;164
+3873;The Sweeney ;60
+3874;Sexy Beast ;67
+3875;Easy Money ;57
+3876;Whale Rider ;104
+3877;Paa ;114
+3878;Cargo ;47
+3880;High School Musical ;93
+3881;Animal Kingdom             ;59
+3882;Love and Death on Long Island ;114
+3883;Night Watch ;7
+3884;The Crying Game ;62
+3885;Porky's ;85
+3886;Survival of the Dead ;8
+3887;Night of the Living Dead ;10
+3888;Lost in Translation ;19
+3889;Annie Hall ;82
+3890;The Greatest Show on Earth ;102
+3892;Monster's Ball ;101
+3893;Maggie ;14
+3894;Leaving Las Vegas ;101
+3895;Hansel & Gretel Get Baked ;9
+3897;The Front Page ;100
+3898;The Boy Next Door ;47
+3899;Trapeze ;101
+3901;The Kids Are All Right ;114
+3902;They Live ;15
+3903;The Great Escape ;31
+3904;What the #$*! Do We (K)now!? ;88
+3905;The Last Exorcism Part II ;14
+3906;Boyhood ;19
+3907;Scoop ;51
+3909;The Wash ;85
+3910;3 Strikes ;85
+3911;The Cooler ;111
+3912;The Misfits ;21
+3913;The Night Listener ;45
+3914;The Jerky Boys ;73
+3916;The Orphanage ;55
+3917;A Haunted House 2 ;113
+3918;The Rules of Attraction ;100
+3919;Topaz ;25
+3920;Let's Go to Prison ;73
+3921;Four Rooms ;113
+3922;Secretary ;100
+3923;The Real Cancun ;70
+3924;Talk Radio ;19
+3925;Waiting for Guffman ;85
+3926;Love Stinks ;85
+3927;You Kill Me ;61
+3928;Thumbsucker ;114
+3929;Red State ;65
+3930;Mirrormask ;146
+3931;Samsara ;68
+3932;The Barbarians ;146
+3933;The Art of Getting By ;101
+3934;Zipper ;25
+3935;Poolhall Junkies ;25
+3936;The Loss of Sexual Innocence ;19
+3937;Holy Motors ;111
+3938;Joe ;19
+3939;Shooting Fish ;72
+3940;Prison ;65
+3941;Psycho Beach Party ;51
+3942;The Big Tease ;85
+3943;Buen Día, Ramón ;19
+3944;Trust ;64
+3945;An Everlasting Piece ;85
+3946;Among Giants ;82
+3947;Adore ;101
+3948;The Velocity of Gary ;100
+3949;Mondays in the Sun ;114
+3950;Stake Land ;14
+3951;Sonny with a Chance             ;105
+3952;The Last Time I Committed Suicide ;41
+3953;Futuro Beach ;19
+3954;Another Happy Day ;114
+3955;A Lonely Place to Die ;136
+3956;Nothing ;113
+3957;The Geographer Drank His Globe Away ;150
+3958;1776 ;93
+3959;Inescapable ;54
+3960;Hell's Angels ;34
+3961;Purple Violets ;100
+3962;The Veil ;8
+3963;The Loved Ones ;17
+3964;No Vacancy ;8
+3965;How to Fall in Love ;82
+3966;The Perfect Wave ;41
+3968;A Man for All Seasons ;36
+3969;Network ;101
+3970;Gone with the Wind ;32
+3971;Desert Dancer ;41
+3972;Major Dundee ;151
+3973;Down for Life ;19
+3974;Annie Get Your Gun ;91
+3975;Four Lions ;74
+3976;House of Sand ;19
+3977;Defendor ;74
+3978;The Pirate ;91
+3979;The Good Heart ;19
+3980;The History Boys ;114
+3982;M*A*S*H             ;33
+3983;Midnight Cowboy ;19
+3984;The Full Monty ;96
+3985;Airplane! ;85
+3986;Chain of Command ;144
+3987;Friday ;114
+3988;Menace II Society ;64
+3989;Empire             ;98
+3990;Creepshow 2 ;6
+3991;The Ballad of Cable Hogue ;21
+3992;In Cold Blood ;43
+3993;The Nun's Story ;19
+3994;Harper ;49
+3995;Frenzy ;142
+3996;The Witch ;10
+3997;I Got the Hook Up ;85
+3998;She's the One ;100
+3999;Gods and Monsters ;41
+4000;The Secret in Their Eyes ;55
+4002;Train ;17
+4003;Evil Dead II ;6
+4004;Pootie Tang ;76
+4005;Sharknado ;8
+4006;La otra conquista ;38
+4007;Trollhunter ;9
+4008;Ira & Abby ;82
+4010;Winter Passing ;114
+4011;D.E.B.S. ;162
+4012;The Masked Saint ;44
+4013;The Betrayed ;50
+4014;Taxman ;80
+4015;The Secret             ;25
+4016;2:13 ;17
+4017;Batman: The Dark Knight Returns, Part 2 ;140
+4018;Time to Choose ;70
+4019;In the Name of the King: The Last Job ;138
+4020;Wicked Blood ;57
+4021;Dawn Patrol ;25
+4022;Lords of London ;45
+4023;High Anxiety ;85
+4024;March of the Penguins ;70
+4025;Margin Call ;42
+4026;August ;101
+4027;Choke ;114
+4028;Whiplash ;98
+4029;City of God ;59
+4030;Human Traffic ;92
+4031;Day One ;97
+4032;The Dead Girl ;53
+4033;The Hunt ;19
+4034;A Christmas Story ;107
+4035;Bella ;101
+4036;Class of 1984 ;57
+4037;The Opposite Sex ;85
+4038;Dreaming of Joseph Lees ;101
+4039;The Class ;19
+4040;Rosemary's Baby ;14
+4041;The Man Who Shot Liberty Valance ;21
+4042;Adam ;101
+4043;Maria Full of Grace ;59
+4044;Beginners ;100
+4045;Feast ;145
+4046;Animal House ;85
+4047;Goldfinger ;135
+4048;Antiviral ;15
+4049;It's a Wonderful Life ;103
+4050;Trainspotting ;19
+4051;The Original Kings of Comedy ;69
+4052;Paranormal Activity 2 ;8
+4053;Waking Ned Devine ;85
+4054;Bowling for Columbine ;70
+4055;Coming Home ;19
+4056;A Nightmare on Elm Street 2: Freddy's Revenge ;5
+4057;A Room with a View ;101
+4058;The Purge ;15
+4059;Sinister ;10
+4060;Martin Lawrence Live: Runteldat ;68
+4061;Cat on a Hot Tin Roof ;101
+4062;Beneath the Planet of the Apes ;155
+4063;Air Bud ;109
+4064;Pokémon 3: The Movie ;126
+4065;Jason Lives: Friday the 13th Part VI ;17
+4066;The Bridge on the River Kwai ;154
+4067;Spaced Invaders ;89
+4068;Family Plot ;145
+4069;The Apartment ;100
+4070;Jason Goes to Hell: The Final Friday ;7
+4071;Torn Curtain ;142
+4072;Dave Chappelle's Block Party ;69
+4073;Slow West ;20
+4074;Krush Groove ;96
+4075;Next Day Air ;79
+4076;Elmer Gantry ;19
+4077;Judgment at Nuremberg ;34
+4078;Trippin' ;85
+4079;Robot Chicken             ;130
+4080;Red River ;161
+4081;Phat Girlz ;85
+4082;Before Midnight ;101
+4083;Teen Wolf Too ;113
+4084;Phantasm II ;3
+4085;Woman Thou Art Loosed ;19
+4086;Real Women Have Curves ;114
+4087;Deadline Gallipoli             ;34
+4088;Water ;101
+4089;East Is East ;114
+4090;Whipped ;82
+4091;Kama Sutra: A Tale of Love ;38
+4092;Please Give ;114
+4093;Willy Wonka & the Chocolate Factory ;119
+4094;Warlock: The Armageddon ;5
+4095;8 Heads in a Duffel Bag ;73
+4096;Days of Heaven ;101
+4097;Thirteen Conversations About One Thing ;19
+4098;Jawbreaker ;66
+4099;Basquiat ;41
+4100;Frances Ha ;100
+4101;Tsotsi ;59
+4102;Happiness ;114
+4103;DysFunktional Family ;69
+4104;Tusk ;9
+4105;Oldboy ;55
+4106;Letters to God ;104
+4107;Hobo with a Shotgun ;145
+4108;Compadres ;77
+4109;Freeway ;75
+4110;Love's Abiding Joy ;21
+4111;Fish Tank ;19
+4112;Damsels in Distress ;100
+4113;Creature             ;15
+4114;Bachelorette ;82
+4115;BrainDead             ;87
+4116;Brave New Girl ;93
+4117;Tim and Eric's Billion Dollar Movie ;85
+4119;The Grand             ;19
+4120;Summer Storm ;115
+4121;Fort McCoy ;31
+4122;Chain Letter ;17
+4123;Just Looking ;114
+4124;The Divide ;24
+4125;The Eclipse ;14
+4126;Demonic ;17
+4127;My Big Fat Independent Movie ;85
+4129;The Deported ;85
+4130;Tanner Hall ;19
+4131;Open Road ;28
+4132;They Came Together ;85
+4133;30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo ;85
+4134;Never Back Down 2: The Beatdown ;163
+4135;Point Blank ;67
+4136;Four Single Fathers ;85
+4137;Enter the Dangerous Mind ;142
+4138;Something Wicked ;13
+4139;AWOL-72 ;142
+4140;Iguana ;151
+4142;Chicago Overcoat ;151
+4143;Barry Munday ;100
+4144;Central Station ;19
+4145;Pocketful of Miracles ;114
+4146;Close Range ;165
+4147;Boynton Beach Club ;82
+4148;Amnesiac ;13
+4149;Freakonomics ;70
+4151;High Tension ;8
+4152;Griff the Invisible ;86
+4153;Unnatural ;4
+4154;Hustle & Flow ;99
+4155;Some Like It Hot ;91
+4156;Friday the 13th Part VII: The New Blood ;8
+4157;The Wizard of Oz ;119
+4158;Young Frankenstein ;85
+4159;Diary of the Dead ;8
+4160;Lage Raho Munna Bhai ;100
+4161;Ulee's Gold ;19
+4162;The Black Stallion ;108
+4163;Sardaar Ji ;84
+4164;Journey to Saturn ;157
+4165;Donovan's Reef ;147
+4166;The Dress ;114
+4167;A Guy Named Joe ;35
+4168;Blazing Saddles ;148
+4169;Friday the 13th: The Final Chapter ;17
+4170;Ida ;19
+4171;Maurice ;101
+4172;Beer League ;116
+4174;Riding Giants ;71
+4175;Timecrimes ;16
+4176;Silver Medallist ;76
+4177;Timber Falls ;17
+4178;Singin' in the Rain ;91
+4179;Fat, Sick & Nearly Dead ;70
+4180;A Haunted House ;113
+4181;2016: Obama's America ;70
+4183;That Thing You Do! ;96
+4184;Halloween III: Season of the Witch ;16
+4185;Escape from the Planet of the Apes ;156
+4186;Hud ;19
+4187;Kevin Hart: Let Me Explain ;69
+4188;My Own Private Idaho ;19
+4189;Garden State ;100
+4190;Before Sunrise ;101
+4191;Sur le seuil ;4
+4192;Jesus' Son ;19
+4193;Saving Face ;100
+4194;Brick Lane ;19
+4195;Robot & Frank ;88
+4196;My Life Without Me ;101
+4197;The Spectacular Now ;100
+4198;Marilyn Hotchkiss' Ballroom Dancing and Charm School ;91
+4199;Religulous ;33
+4200;Fuel ;70
+4201;Valley of the Heart's Delight ;19
+4203;Eye of the Dolphin ;102
+4204;8: The Mormon Proposition ;70
+4205;The Other End of the Line ;100
+4206;Anatomy ;17
+4207;Sleep Dealer ;54
+4208;Super ;74
+4209;Christmas Mail ;102
+4210;Stung ;9
+4211;Antibirth ;8
+4212;Get on the Bus ;38
+4213;Thr3e ;13
+4214;Idiocracy ;89
+4215;The Rise of the Krays ;59
+4216;This Is England ;59
+4217;Alien Uprising ;88
+4218;Bathing Beauty ;92
+4219;Go for It! ;98
+4220;Dancer, Texas Pop. 81 ;102
+4221;Show Boat ;93
+4222;Redemption Road ;19
+4223;The Calling ;142
+4224;The Brave Little Toaster ;120
+4225;Fantasia ;119
+4227;8 Days ;25
+4228;Friday the 13th Part III ;17
+4229;Friday the 13th: A New Beginning ;11
+4230;The Last Sin Eater ;19
+4231;Do You Believe? ;19
+4232;Impact Point ;142
+4233;The Valley of Decision ;19
+4234;Eden ;25
+4235;Chicken Tikka Masala ;100
+4236;Always Woodstock ;91
+4237;Jack Brooks: Monster Slayer ;1
+4238;The Best Years of Our Lives ;32
+4239;Bully ;43
+4240;Elling ;114
+4241;Mi America ;59
+4242;[Rec] ;8
+4243;Lies in Plain Sight ;19
+4244;Sharkskin ;75
+4245;Containment ;15
+4246;The Timber ;151
+4247;From Russia with Love ;135
+4248;The Toxic Avenger Part II ;1
+4249;In the Heat of the Night             ;53
+4250;Sleeper ;88
+4251;It Follows ;10
+4252;Everything You Always Wanted to Know About Sex * But Were Afraid to Ask ;85
+4253;To Kill a Mockingbird ;59
+4254;Mad Max 2: The Road Warrior ;137
+4255;The Legend of Drunken Master ;77
+4257;Boys Don't Cry ;63
+4258;Silent House ;13
+4259;The Lives of Others ;25
+4260;Courageous ;19
+4261;The Hustler ;118
+4262;Boom Town ;154
+4263;The Triplets of Belleville ;130
+4264;Smoke Signals ;114
+4265;American Splendor ;40
+4266;Before Sunset ;101
+4267;Amores Perros ;25
+4268;Thirteen ;19
+4269;Gentleman's Agreement ;101
+4270;Winter's Bone ;19
+4271;Touching the Void ;71
+4272;Alexander's Ragtime Band ;94
+4273;Me and You and Everyone We Know ;114
+4274;Inside Job ;70
+4275;We Are Your Friends ;94
+4276;Ghost Dog: The Way of the Samurai ;57
+4277;Harsh Times ;57
+4278;Captive ;64
+4279;Full Frontal ;82
+4280;Witchboard ;11
+4281;Strangers with Candy             ;85
+4283;Shortbus ;100
+4284;Waltz with Bashir ;29
+4285;The Book of Mormon Movie, Volume 1: The Journey ;146
+4286;No End in Sight ;70
+4287;The Diary of a Teenage Girl ;101
+4288;Get Real             ;100
+4289;In the Shadow of the Moon ;68
+4290;Meek's Cutoff ;21
+4291;Inside Deep Throat ;68
+4292;Dinner Rush ;63
+4293;Clockwatchers ;114
+4294;The Virginity Hit ;85
+4295;Subway ;75
+4296;House of D ;114
+4297;Teeth ;6
+4298;Six-String Samurai ;157
+4299;Hum To Mohabbat Karega ;162
+4300;It's All Gone Pete Tong ;40
+4301;Saint John of Las Vegas ;114
+4302;24 7: Twenty Four Seven ;115
+4303;Stonewall ;19
+4304;Eureka             ;88
+4305;Roadside Romeo ;106
+4306;This Thing of Ours ;59
+4307;The Lost Medallion: The Adventures of Billy Stone ;124
+4308;The Last Five Years ;95
+4309;The Missing Person ;19
+4310;Return of the Living Dead III ;2
+4311;London ;101
+4312;Sherrybaby ;19
+4314;Circle ;16
+4315;Eden Lake ;17
+4316;Plush ;142
+4317;Vampire Killers ;78
+4318;Gangster's Paradise: Jerusalema ;60
+4319;Freeze Frame ;64
+4320;Grave Encounters ;8
+4321;Stitches ;9
+4322;Nine Dead ;65
+4323;To Be Frank, Sinatra at 100 ;70
+4324;Bananas ;85
+4325;Supercapitalist ;142
+4326;Rockaway ;57
+4327;Wings             ;114
+4328;The Lady from Shanghai ;50
+4329;No Man's Land: The Rise of Reeker ;17
+4330;Highway ;59
+4331;Small Apartments ;74
+4332;Coffee Town ;85
+4333;The Ghastly Love of Johnny X ;89
+4334;All Is Bright ;114
+4335;The Torture Chamber of Dr. Sadism ;10
+4336;Straight A's ;114
+4337;A Funny Thing Happened on the Way to the Forum ;92
+4338;Slacker Uprising ;70
+4339;The Legend of Hell's Gate: An American Conspiracy ;152
+4340;The Walking Deceased ;9
+4341;The Curse of Downers Grove ;13
+4342;Shark Lake ;142
+4343;River's Edge ;59
+4344;Northfork ;111
+4345;The Marine 4: Moving Target ;144
+4346;Buried ;55
+4347;Submarine ;100
+4348;The Square ;68
+4349;One to Another ;19
+4351;ABCD (Any Body Can Dance) ;98
+4353;Man on Wire ;68
+4354;Abandoned ;19
+4355;Brotherly Love ;19
+4356;The Last Exorcism ;14
+4357;Nowhere Boy ;97
+4358;A Streetcar Named Desire ;19
+4359;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ;85
+4360;El crimen del padre Amaro ;101
+4361;Beasts of the Southern Wild ;111
+4362;Battle for the Planet of the Apes ;156
+4363;Songcatcher ;98
+4364;Higher Ground ;19
+4365;Vaalu ;82
+4366;The Greatest Movie Ever Sold ;69
+4367;Ed and His Dead Mother ;9
+4368;Travelers and Magicians ;150
+4369;Hang 'Em High ;20
+4370;Deadline - U.S.A. ;59
+4371;Sublime ;17
+4372;A Beginner's Guide to Snuff ;6
+4373;Independence Daysaster ;156
+4374;Dysfunctional Friends ;114
+4375;Run Lola Run ;59
+4376;May ;14
+4377;Against the Wild ;134
+4378;Living Dark: The Story of Ted the Caver ;8
+4379;Under the Same Moon ;150
+4380;Conquest of the Planet of the Apes ;156
+4381;In the Bedroom ;59
+4382;I Spit on Your Grave ;17
+4383;Happy, Texas ;72
+4384;My Summer of Love ;101
+4385;The Lunchbox ;101
+4386;Yes ;101
+4387;You Can't Take It with You ;100
+4388;From Here to Eternity ;32
+4389;She Wore a Yellow Ribbon ;20
+4390;Grace Unplugged ;98
+4391;Foolish ;114
+4392;N-Secure ;64
+4393;Caramel ;100
+4394;Out of the Dark ;17
+4395;The Bubble ;100
+4396;The Conversation ;55
+4397;Dil Jo Bhi Kahey... ;84
+4398;Mississippi Mermaid ;63
+4399;I Love Your Work ;52
+4400;Cabin Fever ;8
+4402;Waitress ;100
+4403;Bloodsport ;44
+4404;Mr. Smith Goes to Washington ;114
+4405;Kids ;19
+4406;The Squid and the Whale ;114
+4407;Kissing Jessica Stein ;100
+4409;Kickboxer: Vengeance ;165
+4410;Spellbound ;47
+4411;Exotica ;54
+4412;Buffalo '66 ;75
+4413;Insidious ;12
+4414;Repo Man ;145
+4415;Nine Queens ;64
+4416;The Gatekeepers ;70
+4417;The Ballad of Jack and Rose ;19
+4418;The To Do List ;82
+4419;Killing Zoe ;64
+4420;The Believer ;19
+4421;Snow Angels ;101
+4422;Unsullied ;4
+4423;Session 9 ;10
+4424;I Want Someone to Eat Cheese With ;82
+4425;Mooz-Lum ;104
+4426;Hatchet ;9
+4427;Modern Times ;102
+4428;Stolen Summer ;19
+4429;My Name Is Bruce ;113
+4430;The Salon ;114
+4431;Road Hard ;85
+4432;Forty Shades of Blue ;94
+4433;Amigo ;34
+4434;Pontypool ;5
+4435;Trucker ;19
+4436;Me You and Five Bucks ;100
+4437;The Lords of Salem ;7
+4438;Housebound ;51
+4439;Wal-Mart: The High Cost of Low Price ;70
+4440;Fetching Cody ;111
+4441;Once Upon a Time in Queens ;114
+4442;Closer to the Moon ;114
+4443;Mutant World ;90
+4444;Growing Up Smith ;102
+4445;Checkmate ;58
+4447;#Horror ;13
+4448;Wind Walkers ;4
+4449;Snow White and the Seven Dwarfs ;119
+4450;The Holy Girl ;19
+4451;Shalako ;20
+4452;Incident at Loch Ness ;18
+4453;The Dog Lover ;19
+4454;Girl House ;17
+4455;The Blue Room ;61
+4456;House at the End of the Drive ;17
+4457;Batman: The Movie ;134
+4458;Lock, Stock and Two Smoking Barrels ;73
+4459;The Ballad of Gregorio Cortez ;20
+4460;The Streets of San Francisco             ;60
+4461;The Celebration ;19
+4462;Trees Lounge ;114
+4463;Journey from the Fall ;19
+4464;The Basket ;19
+4465;Eddie: The Sleepwalking Cannibal ;9
+4467;Space: Above and Beyond             ;22
+4468;Queen of the Mountains ;44
+4469;Def-Con 4 ;156
+4470;The Hebrew Hammer ;85
+4471;Neal 'N' Nikki ;91
+4472;The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It ;85
+4473;Forget Me Not ;14
+4474;Rebecca ;55
+4475;Friday the 13th Part 2 ;11
+4476;The Lost Weekend ;19
+4477;C.H.U.D. ;2
+4478;Filly Brown ;98
+4479;The Lion of Judah ;130
+4480;Niagara ;67
+4481;How Green Was My Valley ;104
+4482;The Girlfriend Experience             ;19
+4483;Da Sweet Blood of Jesus ;162
+4484;Sex, Lies, and Videotape ;19
+4485;Saw ;11
+4486;Super Troopers ;51
+4487;The Algerian ;161
+4488;The Amazing Catfish ;114
+4490;Monsoon Wedding ;100
+4491;You Can Count on Me ;19
+4492;The Trouble with Harry ;51
+4494;But I'm a Cheerleader ;114
+4495;Home Run ;118
+4496;Reservoir Dogs ;64
+4497;The Blue Bird ;103
+4498;The Good, the Bad and the Ugly ;20
+4499;The Second Mother ;114
+4500;Blue Like Jazz ;114
+4501;Down and Out with the Dolls ;92
+4502;Pink Ribbons, Inc. ;70
+4503;Certifiably Jonathan ;69
+4504;Q ;19
+4505;The Knife of Don Juan ;114
+4506;Grand Theft Parsons ;147
+4507;Extreme Movie ;85
+4508;The Charge of the Light Brigade ;153
+4509;Below Zero ;142
+4510;Crowsnest ;12
+4511;Airborne ;108
+4512;Cotton Comes to Harlem ;77
+4513;The Wicked Within ;8
+4514;Bleeding Hearts ;8
+4515;Waiting... ;85
+4516;Dead Man's Shoes ;64
+4517;Wolf Creek             ;14
+4518;From a Whisper to a Scream ;4
+4519;Sex with Strangers ;71
+4520;Dracula: Pages from a Virgin's Diary ;92
+4521;Faith Like Potatoes ;19
+4522;Beyond the Black Rainbow ;143
+4523;The Raid: Redemption ;58
+4524;The Dead Undead ;2
+4525;The Vatican Exorcisms ;8
+4526;Casablanca ;32
+4527;Lake Mungo ;13
+4528;Rocket Singh: Salesman of the Year ;114
+4529;Silent Running ;22
+4530;Rocky ;118
+4531;The Sleepwalker ;19
+4533;Tom Jones ;148
+4534;Unfriended ;11
+4535;Taxi Driver ;59
+4536;The Howling ;8
+4537;Dr. No ;135
+4538;Chernobyl Diaries ;16
+4539;Hellraiser ;5
+4540;God's Not Dead 2 ;19
+4541;Cry_Wolf ;13
+4542;Godzilla 2000 ;149
+4543;Blue Valentine ;101
+4544;Transamerica ;147
+4545;The Devil Inside ;8
+4546;Beyond the Valley of the Dolls ;96
+4547;Love Me Tender ;21
+4548;An Inconvenient Truth ;70
+4549;Sands of Iwo Jima ;30
+4550;Shine a Light ;68
+4551;The Green Inferno ;18
+4552;Departure ;102
+4553;The Sessions ;40
+4554;Food, Inc. ;70
+4555;October Baby ;19
+4556;Next Stop Wonderland ;100
+4558;The Skeleton Twins ;114
+4559;Martha Marcy May Marlene ;55
+4560;Obvious Child ;114
+4561;Frozen River ;59
+4562;20 Feet from Stardom ;68
+4563;Two Girls and a Guy ;114
+4564;Walking and Talking ;100
+4566;Who Killed the Electric Car? ;70
+4567;The Broken Hearts Club: A Romantic Comedy ;115
+4568;Bubba Ho-Tep ;51
+4570;Slam ;19
+4571;Brigham City ;53
+4572;Fiza ;101
+4574;Orgazmo ;88
+4575;All the Real Girls ;101
+4576;Dream with the Fishes ;114
+4577;Blue Car ;19
+4578;Luminarias ;82
+4579;Palo Alto ;19
+4580;Ajami ;59
+4581;Wristcutters: A Love Story ;110
+4582;I Origins ;22
+4583;The Battle of Shaker Heights ;100
+4585;The Act of Killing ;68
+4586;Taxi to the Dark Side ;70
+4587;Once in a Lifetime: The Extraordinary Story of the New York Cosmos ;71
+4588;Guiana 1838 ;19
+4589;Lisa Picard Is Famous ;114
+4590;Antarctica: A Year on Ice ;41
+4591;A Lego Brickumentary ;70
+4592;Hardflip ;163
+4593;Chocolate: Deep Dark Secrets ;142
+4594;The House of the Devil ;8
+4595;The Perfect Host ;66
+4596;Safe Men ;73
+4597;Speedway Junky ;63
+4598;The Last Big Thing ;114
+4599;The Specials ;157
+4600;16 to Life ;82
+4601;Alone with Her ;64
+4602;Creative Control ;22
+4603;Special ;88
+4604;Sparkler ;114
+4605;The Helix... Loaded ;157
+4606;In Her Line of Fire ;163
+4607;The Jimmy Show ;114
+4608;Heli ;63
+4609;Karachi se Lahore ;107
+4610;Loving Annabelle ;101
+4611;Hits ;114
+4612;Jimmy and Judy ;64
+4613;Frat Party ;85
+4614;The Party's Over ;19
+4615;Proud ;19
+4616;The Poker House ;19
+4617;Childless ;19
+4618;ZMD: Zombies of Mass Destruction ;87
+4619;Snow White: A Deadly Summer ;8
+4620;Hidden Away ;101
+4621;My Last Day Without You ;100
+4622;Steppin: The Movie ;92
+4623;Doc Holliday's Revenge ;20
+4624;Black Rock ;17
+4625;Truth or Die ;10
+4626;The Pet ;25
+4627;Bang Bang Baby ;98
+4628;Fear Clinic ;8
+4629;Zombie Hunter ;1
+4630;A Fine Step ;19
+4632;Charly ;22
+4633;Banshee Chapter ;17
+4634;Jesse             ;85
+4635;Ask Me Anything ;19
+4636;And Then Came Love ;82
+4637;Food Chains ;70
+4638;On the Waterfront ;63
+4639;L!fe Happens ;85
+4640;4 Months, 3 Weeks and 2 Days ;19
+4641;The Horror Network Vol. 1 ;8
+4642;Hard Candy ;64
+4643;The Quiet ;25
+4644;Circumstance ;19
+4645;Fruitvale Station ;39
+4646;The Brass Teapot ;7
+4647;Bambi ;130
+4648;The Hammer ;116
+4650;Latter Days ;100
+4651;Elza ;19
+4652;1982 ;19
+4653;For a Good Time, Call... ;85
+4654;Celeste & Jesse Forever ;100
+4655;Time Changer ;22
+4656;London to Brighton ;64
+4657;American Hero ;141
+4658;Windsor Drive ;47
+4659;A Separation ;52
+4660;Crying with Laughter ;142
+4661;Welcome to the Dollhouse ;114
+4662;Ruby in Paradise ;101
+4663;Raising Victor Vargas ;101
+4664;Pandora's Box ;63
+4665;Harrison Montgomery ;19
+4666;Live-In Maid ;19
+4667;Deterrence ;25
+4668;The Mudge Boy ;63
+4669;The Young Unknowns ;19
+4670;Not Cool ;85
+4671;Dead Snow ;9
+4672;Saints and Soldiers ;158
+4673;Vessel ;15
+4674;American Graffiti ;96
+4675;Iraq for Sale: The War Profiteers ;70
+4676;Aqua Teen Hunger Force Colon Movie Film for Theaters ;157
+4677;Safety Not Guaranteed ;100
+4678;Kevin Hart: Laugh at My Pain ;69
+4679;Kill List ;65
+4680;The Innkeepers ;8
+4682;The Conformist ;19
+4683;Interview with the Assassin ;19
+4684;Donkey Punch ;65
+4685;All the Boys Love Mandy Lane ;8
+4686;Bled ;8
+4687;High Noon ;20
+4688;Hoop Dreams ;71
+4689;Rize ;68
+4690;Destiny ;159
+4691;L.I.E. ;59
+4692;The Sisterhood of Night ;55
+4693;B-Girl ;94
+4696;Half Nelson ;19
+4697;Naturally Native ;19
+4698;Hav Plenty ;85
+4699;Adulterers ;64
+4700;Escape from Tomorrow ;5
+4701;Starsuckers ;70
+4702;The Hadza: Last of the First ;70
+4703;After ;12
+4704;Treachery ;25
+4705;Walter ;114
+4706;Top Hat ;91
+4707;The Blair Witch Project ;8
+4708;Woodstock ;68
+4709;The Kentucky Fried Movie ;85
+4710;Mercy Streets ;60
+4711;Arnolds Park ;47
+4712;Broken Vessels ;19
+4713;Water & Power ;59
+4714;They Will Have to Kill Us First ;70
+4715;Crop Circles: Quest for Truth ;70
+4716;Light from the Darkroom ;28
+4717;Irreplaceable ;114
+4718;The Maid's Room ;142
+4719;A Hard Day's Night ;92
+4720;The Harvest/La Cosecha ;70
+4721;Love Letters ;101
+4722;Julija in alfa Romeo ;85
+4723;Fireproof ;101
+4724;Faith Connections ;41
+4725;Benji ;106
+4726;Open Water ;18
+4727;High Road ;85
+4728;Kingdom of the Spiders ;2
+4729;Mad Hot Ballroom ;104
+4730;The Station Agent ;114
+4731;To Save a Life ;19
+4732;Wordplay ;70
+4733;Beyond the Mat ;71
+4734;The Singles Ward ;100
+4735;Osama ;19
+4736;Sholem Aleichem: Laughing in the Darkness ;70
+4737;Groove ;98
+4738;The R.M. ;107
+4739;Twin Falls Idaho ;19
+4740;Mean Creek ;59
+4741;Hurricane Streets ;63
+4742;Never Again ;82
+4743;Civil Brand ;64
+4744;Lonesome Jim ;114
+4745;Drinking Buddies ;100
+4746;Deceptive Practice: The Mysteries and Mentors of Ricky Jay ;70
+4747;Seven Samurai ;158
+4748;The Other Dream Team ;71
+4749;Johnny Suede ;91
+4750;Finishing the Game: The Search for a New Bruce Lee ;85
+4751;Rubber ;113
+4753;Kiss the Bride ;82
+4754;The Slaughter Rule ;118
+4755;Monsters ;24
+4756;The Californians ;19
+4757;The Living Wake ;85
+4758;Detention of the Dead ;9
+4759;Crazy Stone ;73
+4760;Scott Walker: 30 Century Man ;68
+4761;Everything Put Together ;19
+4762;Good Kill ;25
+4763;Insomnia Manica ;142
+4764;The Outrageous Sophie Tucker ;70
+4765;Now Is Good ;101
+4766;Girls Gone Dead ;9
+4767;America Is Still the Place ;148
+4768;Subconscious ;46
+4770;Enter Nowhere ;47
+4771;The King of Najayo ;59
+4772;Fight to the Finish ;163
+4773;Alleluia! The Devil's Carnival ;92
+4774;The Sound and the Shadow ;145
+4775;Rodeo Girl ;104
+4776;Born to Fly: Elizabeth Streb vs. Gravity ;71
+4777;The Little Ponderosa Zoo ;104
+4779;The Toxic Avenger ;1
+4780;Straight Out of Brooklyn ;59
+4781;Bloody Sunday ;31
+4782;Diamond Ruff ;165
+4783;Conversations with Other Women ;100
+4784;Poultrygeist: Night of the Chicken Dead ;92
+4785;Mutual Friends ;82
+4786;42nd Street ;91
+4787;Rise of the Entrepreneur: The Search for a Better Way ;70
+4788;Metropolitan ;100
+4789;As It Is in Heaven ;95
+4790;Roadside ;13
+4791;Napoleon Dynamite ;85
+4792;Blue Ruin ;64
+4793;Paranormal Activity ;8
+4794;Dogtown and Z-Boys ;71
+4795;Monty Python and the Holy Grail ;146
+4796;Quinceañera ;19
+4797;Gory Gory Hallelujah ;92
+4798;Heroes             ;22
+4799;Tarnation ;68
+4800;I Want Your Money ;70
+4801;Love in the Time of Monsters ;9
+4802;The Beyond ;8
+4803;Home Movies             ;130
+4804;What Happens in Vegas ;82
+4805;The Dark Hours ;17
+4806;My Beautiful Laundrette ;100
+4807;Fabled ;13
+4808;Show Me ;25
+4809;Cries & Whispers ;19
+4810;Intolerance: Love's Struggle Throughout the Ages ;31
+4811;Trekkies ;70
+4812;The Broadway Melody ;91
+4813;The Evil Dead ;5
+4814;Maniac ;17
+4815;Censored Voices ;68
+4816;Murderball ;71
+4817;American Ninja 2: The Confrontation ;163
+4818;51 Birch Street ;70
+4819;Revolution             ;149
+4820;Rotor DR1 ;90
+4822;12 Angry Men ;59
+4823;My Dog Tulip ;130
+4824;It Happened One Night ;82
+4825;Dogtooth ;25
+4826;Tupac: Resurrection ;68
+4827;Tumbleweeds ;114
+4828;The Prophecy ;12
+4829;When the Cat's Away ;82
+4830;Pieces of April ;114
+4831;The Big Swap ;19
+4832;Old Joy ;19
+4833;Wendy and Lucy ;19
+4834;3 Backyards ;19
+4835;Pierrot le Fou ;63
+4836;Sisters in Law ;70
+4837;Ayurveda: Art of Being ;70
+4838;Nothing But a Man ;101
+4839;First Love, Last Rites ;101
+4840;Fighting Tommy Riley ;118
+4841;Royal Kill ;144
+4843;The Looking Glass ;98
+4844;Death Race 2000 ;156
+4845;Locker 13 ;142
+4846;Midnight Cabaret ;8
+4847;Anderson's Cross ;100
+4848;Bizarre ;94
+4849;Graduation Day ;10
+4850;Some Guy Who Kills People ;65
+4851;Compliance ;42
+4852;Chasing Amy ;100
+4853;Lovely & Amazing ;100
+4854;Death Calls ;161
+4855;Better Luck Tomorrow ;63
+4856;The Incredibly True Adventure of Two Girls in Love ;100
+4857;Chuck & Buck ;114
+4858;American Desi ;100
+4859;Amidst the Devil's Wings ;60
+4860;Cube ;47
+4861;Love and Other Catastrophes ;82
+4862;I Married a Strange Person! ;88
+4863;November ;55
+4864;Like Crazy ;101
+4865;Teeth and Blood ;8
+4866;Sugar Town ;92
+4867;The Motel ;114
+4868;The Canyons ;25
+4869;Happy Valley             ;59
+4870;On the Outs ;19
+4871;Shotgun Stories ;25
+4872;Exam ;47
+4873;The Sticky Fingers of Time ;90
+4874;Sunday School Musical ;98
+4875;Rust ;19
+4876;Ink ;22
+4877;The Christmas Bunny ;104
+4878;Jesus People ;85
+4879;Butterfly ;59
+4880;UnDivided ;70
+4881;The Frozen ;17
+4883;Horse Camp ;104
+4884;Give Me Shelter ;70
+4885;The Big Parade ;32
+4886;Little Big Top ;85
+4887;Along the Roadside ;91
+4888;Bronson ;44
+4889;Western Religion ;151
+4890;Burn ;70
+4891;Urbania ;19
+4892;The Stewardesses ;114
+4893;The Beast from 20,000 Fathoms ;18
+4895;Mad Max ;137
+4896;Swingers ;114
+4897;A Fistful of Dollars ;21
+4898;She Done Him Wrong ;95
+4899;Short Cut to Nirvana: Kumbh Mela ;70
+4900;The Grace Card ;19
+4901;Middle of Nowhere ;19
+4902;3 ;100
+4903;The Business of Fancydancing ;98
+4904;Call + Response ;68
+4906;Malevolence ;45
+4907;Shooting the Warwicks ;114
+4908;Super Hybrid ;15
+4909;Baghead ;9
+4910;Solitude ;51
+4911;The Case of the Grinning Cat ;70
+4912;Ordet ;111
+4913;Good Dick ;100
+4914;The Man from Earth ;22
+4915;The Trials of Darryl Hunt ;70
+4916;An American Girl Holiday ;104
+4917;Yesterday Was a Lie ;54
+4918;Theresa Is a Mother ;96
+4919;H. ;24
+4920;Archaeology of a Woman ;19
+4921;Children of Heaven ;104
+4922;Weekend ;101
+4923;She's Gotta Have It ;82
+4924;Butterfly Girl ;70
+4925;The World Is Mine ;19
+4926;Another Earth ;22
+4928;Sweet Sweetback's Baadasssss Song ;64
+4929;Perfect Cowboy ;19
+4930;Tadpole ;100
+4931;Once ;94
+4932;The Woman Chaser ;85
+4933;The Horse Boy ;70
+4934;When the Lights Went Out ;8
+4935;Heroes of Dirt ;163
+4937;A Charlie Brown Christmas ;131
+4938;Antarctic Edge: 70° South ;146
+4939;Aroused ;70
+4940;Top Spin ;70
+4941;Roger & Me ;70
+4943;An American in Hollywood ;19
+4944;Sound of My Voice ;23
+4945;The Brain That Sings ;104
+4946;The Blood of My Brother ;70
+4947;Your Sister's Sister ;114
+4948;Romantic Schemer ;84
+4949;A Dog's Breakfast ;85
+4952;Une Femme Mariée ;19
+4953;The Birth of a Nation ;41
+4954;The Work and the Story ;85
+4955;Facing the Giants ;118
+4956;The Gallows ;17
+4957;Eraserhead ;2
+4958;Over the Hill to the Poorhouse ;59
+4959;Hollywood Shuffle ;85
+4960;The Mighty ;114
+4961;Penitentiary ;60
+4962;The Lost Skeleton of Cadavra ;87
+4963;Dude, Where's My Dog?! ;104
+4964;Cheap Thrills ;65
+4965;Indie Game: The Movie ;70
+4966;Closure ;142
+4967;Open Secret ;59
+4968;Echo Dr. ;141
+4969;The Night Visitor ;65
+4970;The Past is a Grotesque Animal ;68
+4972;Peace, Propaganda & the Promised Land ;70
+4973;Pi ;55
+4974;I Love You, Don't Touch Me! ;82
+4975;20 Dates ;40
+4976;Queen Crab ;140
+4977;Super Size Me ;71
+4978;The FP ;85
+4979;Happy Christmas ;114
+4980;The Brain That Wouldn't Die ;2
+4981;Tiger Orange ;19
+4982;Supporting Characters ;85
+4983;Absentia ;10
+4984;The Brothers McMullen ;100
+4985;The Dirties ;64
+4986;Gabriela ;100
+4987;Tiny Furniture ;100
+4988;Hayride ;65
+4989;The Naked Ape ;114
+4990;Counting ;70
+4991;The Call of Cthulhu ;12
+4992;Bending Steel ;70
+4993;The Signal ;143
+4994;The Image Revolution ;68
+4995;This Is Martin Bonner ;19
+4996;A True Story ;85
+4997;George Washington ;19
+4998;Smiling Fish & Goat on Fire ;82
+4999;Dawn of the Crescent Moon ;24
+5000;Raymond Did It ;8
+5001;The Last Waltz ;68
+5002;Run, Hide, Die ;17
+5003;The Exploding Girl ;19
+5004;The Legend of God's Gun ;20
+5005;Mutual Appreciation ;85
+5006;Her Cry: La Llorona Investigation ;8
+5007;Down Terrace ;74
+5008;Clerks ;85
+5009;Pink Narcissus ;111
+5010;Funny Ha Ha ;114
+5011;In the Company of Men ;114
+5013;Manito ;104
+5014;Rampage ;58
+5015;Slacker ;114
+5016;Dutch Kills ;64
+5017;Dry Spell ;82
+5018;Flywheel ;19
+5019;Exeter ;11
+5020;The Ridges ;14
+5021;The Puffy Chair ;100
+5022;Stories of Our Lives ;19
+5023;Breaking Upwards ;84
+5024;All Superheroes Must Die ;143
+5025;Pink Flamingos ;65
+5026;Clean ;94
+5027;The Circle ;19
+5028;Tin Can Man ;8
+5029;The Cure ;45
+5030;On the Downlow ;19
+5031;"Sanctuary; Quite a Conundrum ";6
+5032;Bang ;59
+5033;Primer ;24
+5034;Cavite ;142
+5035;El Mariachi ;61
+5036;The Mongol King ;59
+5037;Newlyweds ;114
+5038;Signed Sealed Delivered ;114
+5039;The Following             ;50
+5040;A Plague So Pleasant ;14
+5041;Shanghai Calling ;100
+5042;My Date with Drew ;70
