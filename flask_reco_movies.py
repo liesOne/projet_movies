@@ -47,4 +47,4 @@ def reco_film(titre_film):
     return mise_en_forme(liste_film)
 
 if __name__=='__main__':
-    app.run(debug = True)
+    app.run()
