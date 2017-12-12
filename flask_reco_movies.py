@@ -45,6 +45,3 @@ def mise_en_forme(liste):
 def reco_film(titre_film):
     liste_film = preco_film(titre_film, data_movies, data_dummies)
     return mise_en_forme(liste_film)
-
-if __name__=='__main__':
-    app.run()
